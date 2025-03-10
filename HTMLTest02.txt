@@ -1,0 +1,1365 @@
+<body>
+            
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDZLTSX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+            
+            
+
+            
+
+<div id="top-bar" class="">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto country-selector">
+                <div id="location-selector">
+                    <a class="dropdown-toggle flag flag-es" id="location-label">
+                        España
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="location-label">
+                        <li><a href="https://www.bullionbypost.eu/" class="flag flag-eu">Europe</a></li>
+                        <li><a href="" class="flag flag-es selected">España</a></li>
+                        <li><a href="https://www.bullionbypost.ie/" class="flag flag-ie">Ireland</a></li>
+                        <li><a href="https://www.orissimo.it/" class="flag flag-it">Italia</a></li>
+                        <li><a href="https://www.xrysosonline.gr/" class="flag flag-gr">Ελλάδα</a></li>
+                        <li><a href="https://www.bullionbypost.fr/" class="flag flag-fr">France</a></li>
+                        <li><a href="https://www.goldbypost.nl/" class="flag flag-nl">Nederland</a></li>
+                        <li><a href="https://www.investiremouro.pt/" class="flag flag-pt">Portugal</a></li>
+                        <li><a href="https://www.bullionbypost.co.uk/" class="flag flag-gb">United Kingdom</a></li>
+                        <li><a href="https://www.bullionbypost.com/" class="flag flag-us">United States</a></li>
+                    </ul>
+                </div>
+                <div id="shipping-selector" class=" small-list">
+                    
+                </div>
+            </div>
+            <div class="col d-none d-md-block">
+                <ul class="links">
+                    <li>
+                        <div class="dropdown signin-dropdown">
+                            <a class="dropdown-toggle" href="#/" id="account-dropdown">
+                                
+                                    <strong>Acceda o regístrese ahora</strong>
+                                
+                            </a>
+
+                            
+
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="account-dropdown">
+    <div class="customer-cta text-center">
+        
+            <a class="btn btn-primary btn-block" href="/cuentas/iniciar-sesi%C3%B3n/">Iniciar sesión</a>
+            <p class="small mb-1">¿Es nuevo en Inversoro.es?</p>
+            <a id="create_account" class="btn btn-success btn-block" href="/cuentas/iniciar-sesi%C3%B3n/">
+                Darse de alta
+            </a>
+        
+    </div>
+    
+    
+</div>
+
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/info/preguntas-frecuentes/">
+                            Preguntas frecuentes
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/contacto/">Contacte<span class="hidden-sm"> con nosotros</span></a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+
+
+<header class="header">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-12 col-md-5 col-lg-8 pl-xl-0">
+                <div class="row align-items-center h-100">
+                    <div class="col-12 col-lg-5 left-column">
+                        <div class="row mobile-nav">
+                            <div class="col pl-xl-0">
+                                <a href="/" class="logo">
+                                    <img class="bullion-logo img-fluid" src="https://www.inversoro.es/static/images/bullion-by-post-logo.svg" width="290" height="65" alt="Inicio Inversoro">
+                                    <p class="tagline d-none d-md-block">Envío asegurado gratuito</p>
+                                    <p id="delivery-tagline" class="d-none d-lg-block">
+Más de 1.000.000 pedidos en todo el mundo
+
+
+</p>
+                                </a>
+                            </div>
+
+                            <div class="col-auto text-right d-md-none">
+                                <ul class="mobile-icon-nav">
+                                    <li>
+                                        <a href="/precio-del-oro/">
+                                            <i class="icon icon-chart-line"></i>
+                                            <span>Gráficos</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/cuentas/">
+                                            <i class="icon icon-user-alt"></i>
+                                            <span>Perfil</span>
+                                        </a>
+                                    </li>
+                                    <li class="basket basket-empty">
+                                        <a href="/pedido/">
+                                            <i class="icon icon-shopping-cart"></i>
+                                            <span class="total-items">
+                                                
+                                                    0
+                                                
+                                            </span>
+                                            <div class="subtext">Cesta</div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-btn">
+                                        <a href="#/">
+                                            <i class="icon icon-bars"></i>
+                                            <span>Menú</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg center-column">
+                        <div class="row">
+                            <div class="col order-md-2">
+                                <div class="mobile-search-panel">
+                                    <form class="search" method="get" id="mobile_search" action="/buscar/">
+                                        <div class="input-group">
+                                            <input type="search" placeholder="Buscar" class="form-control searchbox ui-autocomplete-input" autocomplete="off" name="q">
+                                            <span class="input-group-append">
+                                                <button type="submit" class="btn btn-primary submit-search" aria-label="Buscar">
+                                                    <span class="d-md-none">Buscar</span>
+                                                    <span class="d-none d-md-block"><i class="icon icon-search"></i></span>
+                                                </button>
+                                            </span>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 order-md-1 contact-bar d-md-none d-lg-block">
+                                <p>
+                                    <span class="contact-phone">800 880 881</span>
+                                    <span class="contact-times">
+                                        Lunes - Viernes 09:30 a 18:00
+                                    </span>
+                                    <span class="contact-delivery mb-0 d-block d-lg-none">
+                                        Envío asegurado gratuito
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-5 col-lg-4 pl-lg-4 pl-xl-5 price-chart-wrapper ">
+                <div class="row align-items-center h-100">
+                    
+
+<div class="col metal-prices-box">
+    <div class="metal-prices-title">
+        <div class="metal-prices-title-row row align-items-end">
+            <div class="col box-title"></div>
+            <div class="col-auto metal-price-weight-links">
+                <span class="weight-button oz-prices selected">Onzas</span>
+                <span class="weight-button gm-prices">Gramos</span>
+                <span class="weight-button kg-prices">Kilogramos</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="metal-prices-content table-responsive">
+        <table class="table table-borderless metal-price-table">
+            <caption class="d-none">Precios</caption>
+
+            <thead>
+                <tr>
+                    
+                        <th></th>
+                        <th>EUR</th>
+                        <th>GBP</th>
+                        <th>USD</th>
+                    
+                </tr>
+            </thead>
+
+            <tbody>
+                
+                    
+                        <tr>
+                            <td><a href="/precio-del-oro/" class="text-underline">Precio de oro</a></td>
+                            <td class="gold-price-in-euros" title="Precio Oro en Euros">2&nbsp;676,50&nbsp;€</td>
+                            <td class="gold-price-in-pounds" title="Precio Oro en Libras Esterlinas">2&nbsp;243,23&nbsp;£</td>
+                            <td class="gold-price-in-dollars" title="Precio Oro en Dólares Americanos">2&nbsp;902,71&nbsp;$</td>
+                        </tr>
+                    
+
+                    
+                        <tr>
+                            <td><a href="/precio-de-la-plata/" class="text-underline">Precio de plata</a></td>
+                            <td class="silver-price-in-euros" title="Precio Plata en Euros">29,95&nbsp;€</td>
+                            <td class="silver-price-in-pounds" title="Precio Plata en Libras Esterlinas">25,10&nbsp;£</td>
+                            <td class="silver-price-in-dollars" title="Precio Plata en Dólares Americanos">32,54&nbsp;$</td>
+                        </tr>
+                    
+                
+            </tbody>
+        </table>
+
+    </div>
+    <div class="row metal-prices-footer">
+        <div class="col pr-0">
+            <p class="update-time mb-0">
+                <span class="d-none d-md-inline-block">Actualizados:</span>
+                <span class="update-time-value">13:30 UTC 10/03/25</span>
+            </p>
+        </div>
+        <div class="col-auto text-right align-top pl-0">
+            <a href="/precio-del-oro/#default-metal-price-alerts"><i class="icon icon-bell"></i> Crear alerta</a>
+        </div>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+            <div id="desktop-nav" class="d-none d-md-block">
+                <nav id="nav-main">
+                    <div class="container">
+                        <ul>
+                            <li>
+                                <a id="id_menu_buy" href="/">Comprar</a>
+                            </li>
+                            
+                            
+                            
+                            
+                            <li>
+                                <a href="/info/guia-de-inversion/">Guía de inversión</a>
+                            </li>
+                            <li class="d-none d-lg-block"><a href="/info/como-comprar-oro-y-plata/">¿Cómo comprar?</a></li>
+                            
+                            <li><a href="/precio-del-oro/">Gráficos<span class="hidden-sm"> de precios</span></a></li>
+                            <li class="basket basket-empty">
+                                <a href="/pedido/">
+                                    <i class="icon icon-shopping-cart"></i>
+                                    <span class="total-items">
+                                        
+                                            0
+                                        
+                                    </span>
+                                    Cesta
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                <div id="nav-footer">
+                    <div class="container">
+                        <div class="row justify-content-between">
+                            <div class="col col-lg-auto">
+                                <a href="/info/opciones-de-envio/" class="trust-signal">
+                                    
+                                        <img src="https://www.inversoro.es/static/shared/images/logos/fedex-logo.svg" alt="logotipo de fedex" class="img-responsive mr-1" height="13" width="48" loading="lazy">
+                                    
+                                    <span class="trust-text">
+                                        <span class="trust-title">Entrega gratuita</span>
+                                        Rápido, seguro y asegurado
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="col col-lg-auto">
+                                <a href="https://es.trustpilot.com/review/www.inversoro.es" class="trust-signal" target="_blank" rel="nofollow noreferrer">
+                                    <img src="https://www.inversoro.es/static/shared/images/logos/trustpilot-star-logo.svg" alt="Opiniones de clientes de Trustpilot" class="img-responsive mr-1" height="35" width="35" loading="lazy">
+                                    <span class="trust-text">
+                                        <span class="trust-title">Calificación excelente</span>
+                                        Consulte nuestras opiniones en <img src="https://www.inversoro.es/static/shared/images/logos/trustpilot-logo.svg" alt="Insignia de opiniones de Trustpilot" class="trustpilot-logo" height="auto" width="60" loading="lazy">
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="col col-lg-auto text-center text-lg-left d-none d-lg-flex">
+                                <a href="/info/formas-de-pago/" class="trust-signal">
+                                    <img src="https://www.inversoro.es/static/shared/images/logos/payment-icons-4s.gif" alt="Insignias de pago seguro" class="img-responsive mt-1 mr-1" height="26" width="40" loading="lazy">
+                                    <span class="trust-text">
+                                        <span class="trust-title d-none d-lg-block">Pague en línea de forma segura</span>
+                                        Apple Pay, Visa, Mastercard <span class="d-none d-xl-inline">y más</span>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="col col-lg-auto">
+                                <div class="trust-signal">
+                                    <img src="https://www.inversoro.es/static/shared/images/logos/lbma-logo.svg" alt="logotipo de la LMBA" class="img-responsive mr-1" height="36" width="26" loading="lazy">
+                                    <span class="trust-text">
+                                        <span class="trust-title">Miembro de la LBMA</span>
+                                        Autoridad Independiente de Metales Preciosos
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="nav-state"></div>
+
+            <div id="content">
+                    <!-- COLUMNS -->
+                
+                    
+                    
+    
+
+    <div class="container" id="confirm-prices">
+        <div class="row">
+            <div class="col">
+                <h1 class="mb-4">Fijar precios -</h1>
+            </div>
+        </div>
+        <form id="order-form" action="." method="post">
+            <input type="hidden" name="csrfmiddlewaretoken" value="2QydDind9GC4oWm8rVzo2Pze0qP65DZiRvnTbSlzdMcKtQLdULfnCtxtumAFYd1B">
+            <div class="row">
+                <div class="col-12">
+                    
+
+                    
+
+                    
+
+                    
+
+
+                    
+
+<div class="checkout-process">
+    <ul class="no-style">
+        <li class="checkout-step current-step">
+            <span class="step">1</span>Fijar precios
+        </li>
+        <li class="checkout-step ">
+            <span class="step">2</span>Realizar pedido
+        </li>
+        <li class="checkout-step ">
+            <span class="step">3</span>
+            <span class="d-sm-none">Summary</span>
+            <span class="d-none d-sm-inline">Resumen del pedido</span>
+        </li>
+        
+        
+    </ul>
+</div>
+
+
+                    <div class="loading">
+                        <img src="https://www.inversoro.es/static/shared/images/loading-large.gif" alt="Loading"><br>Actualizando cesta
+                    </div>
+
+                    <div id="basket-table">
+                        <table class="table mb-0">
+                            <thead>
+                                <tr class="d-none d-md-table-row">
+                                    <th colspan="7">
+                                        <div class="row">
+                                            <div class="col-3 col-md-1 image-column">Producto</div>
+                                            <div class="col col-md-5 product-column">
+                                                <div class="row">
+                                                    <div class="col-12 col-md offset-md-8 offset-xl-9 px-0 my-auto">
+                                                        uds.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 col-md product-pricing">
+                                                <div class="row">
+                                                    <div class="col-md-3">Precio por unidad</div>
+                                                    
+                                                        <div class="col-md-4">Precio (sin IVA)</div>
+                                                        <div class="col">IVA</div>
+                                                    
+                                                    <div class="col">Subtotal (con IVA)</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                    <tr>
+                                        <td colspan="7">Su cesta está vacía.</td>
+                                    </tr>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+
+                    
+
+                    
+
+
+                    
+                </div>
+                <div class="col-12">
+                    <div class="row">
+
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+                
+            
+
+            
+
+            
+        </form>
+        
+
+<section class="sm pb-0">
+    <hr>
+    <div class="container">
+        <div class="row justify-content-sm-center align-items-center mt-4">
+            <div class="col-12 col-sm-4 col-md-auto mb-4 mb-sm-0 text-center">
+                <img src="https://www.inversoro.es/static/shared/images/payment-homepage.svg" class="img-fluid my-auto" alt="Pagos online seguros" width="250" height="38" loading="lazy">
+            </div>
+            <div class="col-12 col-sm-4 col-md-auto px-4 px-md-5 mb-4 mb-sm-0 text-center">
+                
+
+<img src="https://www.inversoro.es/static/shared/images/trust-badges/trustpilot-star-review-badge.png" class="img-fluid" alt="Opiniones de clientes de Trustpilot" width="190" height="46" loading="lazy">
+<p class="tp-rated-text text-dark mb-0 small">Calificado como <strong>'Excelente'</strong> por nuestros clientes</p>
+
+            </div>
+            <div class="col-12 col-sm-4 col-md-auto text-center">
+                <img src="https://www.inversoro.es/static/shared/images/trust-badges/ekomi-excellent-rating-badge.png" class="img-fluid" alt="Reseña Cliente eKomi" width="210" height="auto" loading="lazy">
+            </div>
+        </div>
+    </div>
+</section>
+
+    </div>
+
+    <div class="modal fade" id="edit-address-modal" tabindex="-1" aria-labelledby="edit-address-modal-title" aria-hidden="true">
+        <div class="modal-dialog"></div>
+    </div>
+
+    
+
+    <div class="modal fade" id="registration-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        
+
+<div id="registration" class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h4 class="modal-title">Iniciar sesión</h4>
+            <button class="close" data-dismiss="modal">×</button>
+        </div>
+        <div class="modal-body">
+            
+            <form id="login-order-form" class="form-horizontal fv-form fv-form-bootstrap" method="post" novalidate="novalidate"><button type="submit" class="fv-hidden-submit" style="display: none; width: 0px; height: 0px;"></button>
+                
+                    
+
+
+    <div class="form-group field-component  username-field">
+        <label for="id_username" class="control-label col-sm-3">
+            Correo electrónico
+        </label>
+        <div class="input-wrapper col-sm-9 ">
+            
+
+            <input type="text" name="username" maxlength="150" autocomplete="username email" required="" id="id_username" data-fv-field="username">
+
+            
+
+            
+        <small class="help-block" data-fv-validator="notEmpty" data-fv-for="username" data-fv-result="NOT_VALIDATED" style="display: none;">Este campo es obligatorio</small><small class="help-block" data-fv-validator="emailAddress" data-fv-for="username" data-fv-result="NOT_VALIDATED" style="display: none;">Por favor, introduzca una dirección de correo electrónico válida</small><small class="help-block" data-fv-validator="regexp" data-fv-for="username" data-fv-result="NOT_VALIDATED" style="display: none;">Por favor, introduzca una dirección de correo electrónico válida</small><small class="help-block" data-fv-validator="stringLength" data-fv-for="username" data-fv-result="NOT_VALIDATED" style="display: none;">Please enter a value with valid length</small></div>
+    </div>
+
+
+                
+                    
+
+
+    <div class="form-group field-component  type_of_user-field">
+        <label for="id_type_of_user" class="control-label col-sm-3">
+            Tipo de usuario
+        </label>
+        <div class="input-wrapper col-sm-9 ">
+            
+
+            <div id="id_type_of_user"><div>
+    <label for="id_type_of_user_0"><input type="radio" name="type_of_user" value="new" required="" id="id_type_of_user_0" checked="" data-fv-field="type_of_user">
+ Soy un cliente nuevo <br><span class="small">(Necesitará crear una contraseña más adelante)</span></label>
+
+</div><div>
+    <label for="id_type_of_user_1"><input type="radio" name="type_of_user" value="returning" required="" id="id_type_of_user_1" data-fv-field="type_of_user">
+ Soy un cliente existente, mi contraseña es:</label>
+
+</div>
+</div>
+
+            
+
+            
+        <small class="help-block" data-fv-validator="notEmpty" data-fv-for="type_of_user" data-fv-result="NOT_VALIDATED" style="display: none;">Please enter a value</small></div>
+    </div>
+
+
+                
+                    
+
+
+    <div class="form-group field-component  password-field">
+        <label for="id_password" class="control-label col-sm-3">
+            Contraseña
+        </label>
+        <div class="input-wrapper col-sm-9 ">
+            
+
+            <input type="password" name="password" maxlength="100" autocomplete="current-password" id="id_password" disabled="disabled" data-fv-field="password">
+
+            
+
+            
+        <small class="help-block" data-fv-validator="notEmpty" data-fv-for="password" data-fv-result="NOT_VALIDATED" style="display: none;">Este campo es obligatorio</small><small class="help-block" data-fv-validator="stringLength" data-fv-for="password" data-fv-result="NOT_VALIDATED" style="display: none;">Please enter a value with valid length</small></div>
+    </div>
+
+
+                
+                <div class="form-group">
+                    <div class="col-sm-9 col-sm-offset-3">
+                        <a href="/cuentas/iniciar-sesi%C3%B3n/#forgot_password?next=/cuentas/recomendar-a-un-amigo/">
+                            ¿Ha olvidado su contraseña?
+                        </a>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-9 col-sm-offset-3">
+                        <button class="btn btn-success" id="login-btn">Crear perfil</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="modal-footer d-block">
+            <img src="https://www.inversoro.es/static/images/secure-ssl-badge.svg" alt="SSL Secured" class="mt-2" height="30">
+            <div class="float-right">
+                <a href="#/" class="btn btn-outline-secondary" data-dismiss="modal">Cerrar</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    
+    
+    
+
+
+                
+
+                
+                
+            </div>
+
+            
+
+
+
+<section class="metal-brands">
+    <div class="container">
+        <div class="brand-carousel owl-carousel owl-drag initialized">
+            <ul class="owl-stage logo-list no-style row d-flex align-items-center" style="width: 2247px; transform: translate3d(0px, 0px, 0px); transition: all;">
+                <li class="owl-item single-logo active" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/heraeus/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/heraeus.png" alt="Heraeus" width="251" height="44" loading="lazy">
+                    </a>
+                </li>
+                <li class="owl-item single-logo active" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/pamp/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/pamp.png" alt="PAMP" width="250" height="74" loading="lazy">
+                    </a>
+                </li>
+                <li class="owl-item single-logo" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/royal-mint/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/royalmint-purple.png" alt="The Royal Mint" width="150" height="150" loading="lazy">
+                    </a>
+                </li>
+                <li class="owl-item single-logo" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/metalor/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/metalor.png" alt="Metalor" width="250" height="43" loading="lazy">
+                    </a>
+                </li>
+                <li class="owl-item single-logo" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/perth-mint/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/perthmint.png" alt="Perth Mint" width="250" height="67" loading="lazy">
+                    </a>
+                </li>
+
+                <li class="owl-item single-logo" style="width: 314.5px; margin-right: 60px;">
+                    <a href="/refinerias-de-metales-preciosos/umicore/">
+                        <img src="https://www.inversoro.es/static/shared/images/logos/umicore.png" alt="Umicore" width="250" height="85" loading="lazy">
+                    </a>
+                </li>
+            </ul>
+        <div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><i class="far fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="far fa-chevron-right"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+    </div>
+</section>
+
+            
+
+<footer>
+    <div class="container main-footer">
+        <div class="row">
+            <div class="col col-md-3 text-center text-md-left">
+                <div class="logo">
+                    <a href="/">
+                        <img class="bullion-logo img-fluid" src="https://www.inversoro.es/static/images/bullion-by-post-logo-white.svg" alt="Inicio Inversoro" height="36" width="189" loading="lazy">
+                    </a>
+                </div>
+                <div class="contact-info">
+                    <p>
+                        <a href="tel:800 880 881" class="phone-number mr-3">800 880 881</a>
+                        <a href="mailto:asistencia@inversoro.es">asistencia@inversoro.es</a>
+                    </p>
+                    <p>Floor 16, Centre City Tower, 7 Hill Street, Birmingham, B5 4UA, United Kingdom</p>
+                </div>
+                <div class="socials">
+                    <a href="https://www.facebook.com/Inversoroes-2038010866289348/?modal=admin_todo_tour" target="_blank" rel="nofollow noopener" class="inline-block fb"><img width="20" height="20" alt="Facebook" src="https://www.inversoro.es/static/shared/images/spritesheets/social-icons-sprite2.svg#src-1"></a>
+                    <a href="https://twitter.com/InversoroES" target="_blank" rel="nofollow noopener" class="inline-block tw"><img width="20" height="20" alt="X" src="https://www.inversoro.es/static/shared/images/spritesheets/social-icons-sprite2.svg#src-3">
+                    </a>
+                    <a href="https://www.linkedin.com/company/bullion-by-post" target="_blank" rel="nofollow noopener" class="inline-block lin"><img width="20" height="20" alt="Linkedin" src="https://www.inversoro.es/static/shared/images/spritesheets/social-icons-sprite2.svg#src-2"></a>
+                </div>
+                <hr class="d-md-none">
+                <div class="newsletter pb-0 d-md-none">
+                    <h4>Manténgase al día de nuestras ofertas especiales</h4>
+                    <form action="/ajax/newsletters/subscribe/" method="post" class="">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="2QydDind9GC4oWm8rVzo2Pze0qP65DZiRvnTbSlzdMcKtQLdULfnCtxtumAFYd1B">
+                        <div id="market-update-messages">
+                            <ul class="messagelist"></ul>
+                        </div>
+                        <div class="form-row justify-content-center">
+                            <div class="col-12 col-sm-9 mb-3 mb-sm-0">
+                                <input type="text" name="email" class="form-control" placeholder="Your email address">
+                            </div>
+                            <div class="col-12 col-sm-auto">
+                                <button type="submit" id="newsletter-subscribe-button" class="btn btn-gold">Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <hr class="d-md-none">
+            </div>
+            <div class="col-sm-12 col-md-9">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3">
+                        <ul class="footer-nav-list">
+                            <li>
+                                <h4>La empresa</h4>
+                            </li>
+                            <li><a href="/info/sobre-nosotros/">Sobre nosotros</a></li>
+                            <li><a href="https://www.bullionbypost.eu/" target="_blank">BullionByPost Europe</a></li>
+                            <li><a href="https://www.bullionbypost.fr/" target="_blank">BullionByPost France</a></li>
+                            <li><a href="https://www.bullionbypost.com/" target="_blank">BullionByPost USA</a></li>
+                            <li><a href="/rese%C3%B1as/">Lea nuestras reseñas</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <ul class="footer-nav-list">
+                            <li>
+                                <h4>Servicio al cliente</h4>
+                            </li>
+                            <li><a href="/contacto/">Contacte con nosotros</a></li>
+                            <li><a href="/info/preguntas-frecuentes/">Preguntas frecuentes</a></li>
+                            <li><a href="/info/formas-de-pago/">Formas de Pago</a></li>
+                            <li><a href="/info/opciones-de-envio/">Opciones de envío</a></li>
+                            <li><a href="/info/returns-policy/">Returns Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <ul class="footer-nav-list">
+                            <li>
+                                <h4>Comprar y vender</h4>
+                            </li>
+                            <li><a href="/info/como-comprar-oro-y-plata/">Cómo comprar</a></li>
+                            <li><a href="/info/guia-de-inversion/">Guía de inversión</a></li>
+                            
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <ul class="footer-nav-list">
+                            <li>
+                                <h4>información</h4>
+                            </li>
+                            <li><a href="/calculadora-de-inversi%C3%B3n/">Calculadora de inversión</a></li>
+                            <li><a href="/precio-del-oro/">Precio de Oro</a></li>
+                            
+                            
+                                <li><a href="/indice/">Índice de metales preciosos</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="d-none d-md-block">
+        <div class="row d-none d-md-flex">
+            <div class="col-sm-6">
+                <div class="newsletter newsletters-module d-none d-md-block">
+                    <p class="lead">Manténgase al día de nuestras ofertas especiales</p>
+                    <form action="/ajax/newsletters/subscribe/" method="post" class="">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="2QydDind9GC4oWm8rVzo2Pze0qP65DZiRvnTbSlzdMcKtQLdULfnCtxtumAFYd1B">
+                        <div id="market-update-messages">
+                            <ul class="messagelist"></ul>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-md-9 col-lg-6">
+                                <input type="text" name="email" class="form-control" placeholder="Introduzca su correo electrónico">
+                            </div>
+                            <div class="col-md-3 col-lg-auto">
+                                <button type="submit" class="btn btn-gold" id="newsletter-subscribe-button">Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-sm-6 website-terms">
+                <p>* El territorio de envío incluye España peninsular y las Islas Baleares. No se realizan envíos a Ceuta, Melilla o las Islas Canarias.</p>
+<p>† Vea nuestras<strong> <a href="https://www.inversoro.es/info/opciones-de-envio/">Opciones de envío</a></strong>&nbsp;para más información sobre la cantidad mínima de pedido.</p>
+<p>Los precios de los metales preciosos son volátiles y el valor de su producto podrá subir o bajar.&nbsp;Jewellery Quarter Bullion Limited&nbsp;no se hace responsable de aquellas pérdidas&nbsp;que puedan resultar de decisiones tomadas en base a información proporcionada por nosotros. Nuestros personal no está&nbsp;cualificado para ofrecer asesoramiento sobre temas fiscales, como&nbsp;inversiones o impuestos, por lo que le recomendamos que se informe de manera independiente antes de tomar cualquier decisión en cuanto a su inversión.</p>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-footer">
+        <div class="container ">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    © Derechos de autor 2025 Jewellery Quarter Bullion Ltd.
+                    <br>
+                    Registrada en Inglaterra, no. 06758398 <span class="vat-no"><strong>CIF</strong> FR70811159383</span>
+                </div>
+                <div class="col-md-6">
+                    <ul class="no-style text-center text-md-right">
+                        <li>
+                            <a href="/info/cookies/">Cookie Policy</a>
+                            <a href="/info/privacidad/">Privacy Policy</a>
+                            <a href="/info/t%C3%A9rminos-y-condiciones/">Términos y condiciones</a>
+                            <a href="/info/uso-aceptable/">Política de uso aceptable</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+            
+
+
+    
+        
+            <div class="footer-banner">
+                <p class="hidden-xs">Inicie sesión o dese de alta con Inversoro.es</p>
+                <a href="https://www.inversoro.es/cuentas/iniciar-sesi%C3%B3n/" class="btn btn-primary">Iniciar sesión</a>
+                <span class="d-none d-sm-inline">o</span>
+                <a href="https://www.inversoro.es/cuentas/iniciar-sesi%C3%B3n/" class="btn btn-success">Darse de alta</a>
+                <button>✕</button>
+            </div>
+        
+    
+
+
+
+            
+
+<nav class=" cbp-spmenu-left" id="slideout-nav">
+
+    <div class="mobile-nav-header">
+        <div class="top-bar">
+            <div class="country-selector">
+                <div id="location-selector">
+                    <a class="dropdown-toggle flag flag-es" id="location-label-mobile">
+                        España
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="location-label-mobile">
+                        <li><a href="https://www.bullionbypost.eu/" class="flag flag-eu">Europe</a></li>
+                        <li><a href="" class="flag flag-es selected">España</a></li>
+                        <li><a href="https://www.bullionbypost.ie/" class="flag flag-ie">Ireland</a></li>
+                        <li><a href="https://www.orissimo.it/" class="flag flag-it">Italia</a></li>
+                        <li><a href="https://www.xrysosonline.gr/" class="flag flag-gr">Ελλάδα</a></li>
+                        <li><a href="https://www.bullionbypost.fr/" class="flag flag-fr">France</a></li>
+                        <li><a href="https://www.goldbypost.nl/" class="flag flag-nl">Nederland</a></li>
+                        <li><a href="https://www.bullionbypost.co.uk/" class="flag flag-gb">United Kingdom</a></li>
+                        <li><a href="https://www.bullionbypost.com/" class="flag flag-us">United States</a></li>
+                    </ul>
+                </div>
+                <div id="shipping-selector" class=" small-list">
+                    
+                </div>
+            </div>
+            <div class="float-right">
+                <a href="#/" class="nav-btn">
+                    <i class="icon icon-times"></i>
+                    <div class="subtext">Cerrar</div>
+                </a>
+            </div>
+        </div>
+        <div class="top-links">
+            <ul class="no-style row">
+                <li class="col">
+                    <a href="/contacto/"><i class="icon icon-phone-volume"></i><span>Contacte<span class="hidden-sm"> con nosotros</span></span></a>
+                </li>
+                <li class="col">
+                    <a href="/info/preguntas-frecuentes/"><i class="icon icon-comments"></i><span>Preguntas frecuentes</span></a>
+                </li>
+                
+                <li class="col"><a href="/info/guia-de-inversion/"><i class="icon icon-book-open"></i><span>Guía de inversión</span></a></li>
+                
+            </ul>
+        </div>
+    </div>
+    <div class="mobile-nav">
+        <ul class="no-style">
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/ofertas-especiales/">
+                        Ofertas Especiales
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/productos-nuevos/">
+                        Productos Nuevos
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/lingotes-de-oro/">
+                        Lingotes de Oro
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/monedas-de-oro/">
+                        Monedas de Oro
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/lingotes-de-plata/">
+                        Lingotes de Plata
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/monedas-de-plata/">
+                        Monedas de Plata
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/regalos/">
+                        Regalos
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/juegos-monedas-oro-proof/">
+                        Juegos de Monedas Proof
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/lingotes-de-platino/">
+                        Lingotes de Platino
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/monedas-platino/">
+                        Monedas de Platino
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/lingotes-paladio/">
+                        Lingotes de Paladio
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/refinerias-de-metales-preciosos/">
+                        Refinerías de Metales Preciosos
+                    </a>
+                </li>
+            
+                <li class="mobile-menu-item
+                           ">
+                    <a href="/accesorios/">
+                        Accesorios
+                    </a>
+                </li>
+            
+            
+            <li class="bg-gray">
+                <a href="/info/como-comprar-oro-y-plata/">
+                    <div class="mobile-menu-item mobile-menu-item-grey">
+                        ¿Cómo comprar?
+                    </div>
+                </a>
+            </li>
+            <li class="bg-gray">
+                <a href="/info/sobre-nosotros/">
+                    <div class="mobile-menu-item mobile-menu-item-grey">
+                        Sobre nosotros
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+            
+
+<div id="sticky-header">
+    <div class="container d-md-none">
+        <div class="row align-items-center mobile-nav">
+            <div class="col">
+                <a href="/" class="logo">
+                    <img class="bullion-logo img-fluid" src="https://www.inversoro.es/static/images/bullion-by-post-logo.svg" width="290" height="65" alt="Inicio Inversoro">
+                </a>
+            </div>
+            <div class="col-auto text-right">
+                <ul class="mobile-icon-nav">
+                    <li>
+                        <a href="/precio-del-oro/">
+                            <i class="icon icon-chart-line"></i>
+                            <span>Gráficos</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/cuentas/">
+                            <i class="icon icon-user-alt"></i>
+                            <span>Perfil</span>
+                        </a>
+                    </li>
+                    <li class="basket basket-empty">
+                        <a href="/pedido/">
+                            <i class="icon icon-shopping-cart"></i>
+                            <span class="total-items">
+                                
+                                    0
+                                
+                            </span>
+                            <div class="subtext">Cesta</div>
+                        </a>
+                    </li>
+                    <li class="nav-btn">
+                        <a href="#/">
+                            <i class="icon icon-bars"></i>
+                            <span>Menú</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="mobile-search-panel">
+            <form class="search" method="get" id="mobile_search" action="/buscar/">
+                <div class="input-group">
+                    <input type="search" placeholder="Buscar" class="form-control searchbox ui-autocomplete-input" autocomplete="off" name="q">
+                    <span class="input-group-append">
+                        <button type="submit" class="btn btn-primary submit-search" aria-label="Buscar">
+                            <span class="d-md-none">Buscar</span>
+                            <span class="d-none d-md-block"><i class="icon icon-search"></i></span>
+                        </button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="container d-none d-md-block">
+        <div class="row">
+            <div class="col-auto col-lg-3">
+                <a href="/" class="bullion-logo">
+                    <img src="/static/images/bullion-by-post-logo.svg" alt="Inicio Inversoro" width="200" height="38">
+                </a>
+            </div>
+            <div class="col">
+                <form class="search" id="sticky_search" method="get" action="/buscar/">
+                    <div class="input-group">
+                        <input type="search" placeholder="Buscar" class="form-control searchbox ui-autocomplete-input" autocomplete="off" name="q">
+                        <span class="input-group-append">
+                            <button type="submit" class="btn btn-primary submit-search" aria-label="Buscar"><i class="icon icon-search"></i></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+            <div class="col-auto col-lg-3 text-right">
+                <ul class="sticky-nav">
+                    <li>
+                        <div class="dropdown charts-dropdown">
+                            <a class="dropdown-toggle" href="#" role="button" id="charts-dropdown-btn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="Gráficos">
+                                <i class="icon icon-analytics"></i>
+                            </a>
+
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="charts-dropdown">
+                                
+                                <a href="/precio-del-oro/" class="dropdown-item" title="Precio de oro">Precio de oro</a>
+                                
+                                <a href="/precio-de-la-plata/" class="dropdown-item" title="Precio de plata">Precio de plata</a>
+                                
+                                <a href="/precio-del-platino/" class="dropdown-item" title="Precio de platino">Precio de platino</a>
+                                
+                                <a href="/precio-del-paladio/" class="dropdown-item" title="Precio de paladio">Precio de paladio</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown signin-dropdown">
+                            <a class="dropdown-toggle" href="#" role="button" id="account-dropdown-btn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="Perfil">
+                                <i class="icon icon-user"></i>
+                            </a>
+                            
+
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="account-dropdown">
+    <div class="customer-cta text-center">
+        
+            <a class="btn btn-primary btn-block" href="/cuentas/iniciar-sesi%C3%B3n/">Iniciar sesión</a>
+            <p class="small mb-1">¿Es nuevo en Inversoro.es?</p>
+            <a id="create_account" class="btn btn-success btn-block" href="/cuentas/iniciar-sesi%C3%B3n/">
+                Darse de alta
+            </a>
+        
+    </div>
+    
+    
+</div>
+
+                        </div>
+                    </li>
+                    <li class="basket basket-empty">
+                        <a href="/pedido/">
+                            <i class="icon icon-shopping-cart"></i>
+                            <span class="total-items">
+                                
+                                    0
+                                
+                            </span>
+                            Cesta
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            
+
+
+
+
+            
+
+            
+
+            <script type="text/javascript">
+                var rating_trans = 'Clasificación';
+                var real_reviews_trans = 'Reseñas de nuestros clientes';
+
+                var REFRESH_RATE_TIMEOUT = new Date().getTime() + 3600000;
+            </script>
+            <script src="https://www.inversoro.es/static/shared/ajax/ajax_timeout.js" type="text/javascript"></script>
+
+            
+            <script src="https://www.inversoro.es/static/cache/js/output.2fe44799a7bb.js" type="text/javascript"></script>
+
+            
+            <script type="text/javascript">
+                var home_page = false;
+                var login_url = "/cuentas/iniciar-sesi%C3%B3n/";
+                var SSL_CONN = true;
+                var save_information_pack_url = "/cuentas/paquete-informativo/";
+                var auth = "False";
+                
+                var prices_valid = true;
+                var price_update_token = "d1cb0f1bac6ff";
+
+                var currency_symbol = '&euro;';
+                var COUNTRY_PHONE_CODE = '+34';
+                var CURRENCY_FORMAT = '{price} {symbol}';
+                var FORM_LANGUAGE = 'es_ES';
+                var TIME_ZONE = 'Europe/Madrid';
+
+                var THOUSAND_SEPARATOR = ' ';
+                var DECIMAL_SEPARATOR = ',';
+
+                var PRICE_UPDATES_REFRESH_RATE = 30000;
+
+                var price_rounding_limit = 1000;
+                var site_id = 4;
+                var telephone_number = '800 880 881';
+
+                var delay = 2000;
+                var refresh_rate = 30;
+
+                var URLS = {};
+                var CHART_URLS = {
+                    gold: '/precio-del-oro/',
+                    silver: '/precio-de-la-plata/',
+                    platinum: '/precio-del-platino/'
+                };
+                var loqate_address_find_url = '/loqate/ajax/addresses/find/';
+                var loqate_address_retrieve_url = '/loqate/ajax/addresses/retrieve/';
+
+                var country_phone_codes = {"ESP": "+34"};
+            </script>
+
+            
+            
+    <script id="colissimo_pickup_point_selected" type="application/json">""</script>
+    <script type="text/javascript">
+        var CHECKOUT = {};
+        CHECKOUT.old_prices = {};
+        CHECKOUT.old_subtotal = null;
+        CHECKOUT.update_time = 30000;
+        CHECKOUT.price_url = "/ajax/orders/checkout-prices/" + price_update_token + "/";
+
+        CHECKOUT.flash = {};
+        CHECKOUT.flash.colour = '#d2a73e';
+        CHECKOUT.flash.duration = 2000;
+
+        var basket_add_url = "/cesta/a%C3%B1adir/";
+        var remove_from_basket_url = "/cesta/remove/";
+        var image = $('<img />').attr('src',' https://www.inversoro.es/static/shared/images/loading-large.gif' ).attr('alt', 'Loading');
+        var colissimo_widget_token = "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4NTA0YmY5OWJhYTY0NjFkODg0NDgzYmU3ODFjNGVjNyIsImlhdCI6MTc0MTYxMjk2OCwic3ViIjoid2lkZ2V0IiwiaXNzIjoiOTU5ODQyIiwiZXhwIjoxNzQxNjE0NzY4fQ.loMqjfCLmnr9DyPnGgPXlCJ_NfbbhItbXGBCPpr1Kqc";
+    </script>
+    <script type="text/javascript">
+    URLS['orders-edit-address'] = "/pedido/modificar-direcci%C3%B3n/";
+    URLS['orders-colissimo-widget'] = "/order/colissimo-widget/";
+    URLS['orders-register-login'] = "/pedido/registro-inicio-de-sesi%C3%B3n/";
+</script>
+
+    
+
+
+            
+            <script src="https://www.inversoro.es/static/cache/js/output.061e1e30b5aa.js" type="text/javascript"></script>
+
+            
+                <script src="https://www.inversoro.es/static/lib/formvalidation-0.7.0/js/language/es_ES.js" type="text/javascript"></script>
+            
+
+            <script type="text/javascript">
+    URLS['search-results'] = "/buscar/";
+</script>
+
+
+            <script type="text/javascript">
+    var gold_gbp_chart_url = '/precio-del-oro/week/ounces/GBP/';
+    var gold_usd_chart_url = '/precio-del-oro/week/ounces/USD/';
+    var gold_eur_chart_url = '/precio-del-oro/week/ounces/EUR/';
+    var silver_gbp_chart_url = '/precio-de-la-plata/week/ounces/GBP/';
+    var silver_usd_chart_url = '/precio-de-la-plata/week/ounces/USD/';
+    var silver_eur_chart_url = '/precio-de-la-plata/week/ounces/EUR/';
+    var platinum_gbp_chart_url = '/precio-del-platino/week/ounces/GBP/';
+    var platinum_usd_chart_url = '/precio-del-platino/week/ounces/USD/';
+    var platinum_eur_chart_url = '/precio-del-platino/week/ounces/EUR/';
+
+    var HEADER_PRICES_REFRESH_RATE = 30000;
+</script>
+
+
+            <script type="text/javascript">
+                var youtube_video_loaded = false;
+
+                $('#video-modal').on('show.bs.modal', function() {
+                    if (! youtube_video_loaded) {
+                        $('#video-modal-content').load("/google/youtube-modal/");
+                        youtube_video_loaded = true;
+                    }
+                });
+            </script>
+
+            <script src="https://www.inversoro.es/static/shared/accounts/phone_country_code_replace.js" type="text/javascript"></script>
+<script src="https://www.inversoro.es/static/shared/loqate/addresses.js" type="text/javascript"></script>
+<script src="https://www.inversoro.es/static/shared/core/information_pack.js" type="text/javascript"></script>
+            <script src="https://www.inversoro.es/static/shared/core/country_select.js" type="text/javascript"></script>
+
+            
+                
+                    
+                        <script src="https://www.inversoro.es/static/cache/js/output.ecf364cd11d6.js" type="text/javascript"></script>
+                    
+                
+            
+
+            
+                <script src="https://www.inversoro.es/static/shared/countries/switch_country_header.js" type="text/javascript"></script>
+            
+
+            
+                <script async="" type="text/javascript" src="https://cdn.hedingham.co/6273c1153855fb4ccfade1d0/script.js"></script>
+
+            
+
+            
+                <!-- dataLayer tags for GTM -->
+                
+    <script type="text/javascript">
+        "use strict";
+
+        var products = [];
+        var payment_type = document.querySelector('.payment-method-choices input[name="payment_type"]:checked')?.value;
+        
+            var checkout_step = 1;
+            var action_field = 'signup'
+        ;
+
+        
+
+        dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
+        dataLayer.push({
+            'event': 'view_cart',
+            'ecommerce': {
+                'actionField': {
+                    'step': checkout_step,
+                    'option': action_field,
+                    'payment_method': payment_type
+                },
+                'items': products,
+            },
+            'ecomm_pagetype': 'basket',
+            'ecomm_totalvalue': '0'
+        });
+
+        function removeFromCart() {
+            // TODO: I don't see how this code can be working correctly.
+            // It uses a zero index below, which I think means that the
+            // first product in the basket will always be the one being
+            // reported as removed, regardless of which one actually is
+            // (Adam F - 2023-08-29).
+
+            // Add a removeFromCart function to be called after the remove from
+            // basket alert is confirmed.
+            const removeProduct = document.getElementsByClassName("remove")[0];
+
+            dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
+            dataLayer.push({
+                'event': 'remove_from_cart',
+                'ecommerce': {
+                    'items': [{
+                        'item_id': removeProduct.getAttribute('data-remove-product-id'),
+                        'item_name': removeProduct.getAttribute('data-jqbgtm-product-name'),
+                        'item_category': removeProduct.getAttribute('data-jqbgtm-product-category'),
+                        'price': removeProduct.getAttribute('data-jqbgtm-product-ga-rev'),
+                        'quantity': removeProduct.getAttribute('data-jqbgtm-qty')
+                    }]
+                }
+            });
+        };
+
+        const old_quantity = 0;  // Used for add/remove quantity to basket.
+
+        // Add an updateQuantity function to be called after the quantity is updated.
+        function updateQuantity($qty_input) {
+            const new_quantity = $qty_input.val();
+            const quantity_difference = new_quantity - old_quantity;
+
+            if (quantity_difference > 0) {
+                dataLayer.push({
+                    'event': 'add_to_cart',
+                    'ecommerce': {
+                        'items': [{
+                            'item_id': '',
+                            'item_name': '',
+                            'price': '',
+                            'item_category': '',
+                            'quantity': Math.abs(quantity_difference)
+                        }]
+                    }
+                });
+            }
+            else if (quantity_difference < 0) {
+                dataLayer.push({
+                    'event': 'remove_from_cart',
+                    'ecommerce': {
+                        'items': [{
+                            'item_id': '',
+                            'item_name': '',
+                            'price': '',
+                            'item_category': '',
+                            'quantity': Math.abs(quantity_difference)
+                        }]
+                    }
+                });
+            }
+        };
+
+        // begin_checkout event trigger.
+        document.querySelector("body").addEventListener('click', function(e) {
+            const beginCheckout = e.target.closest('#lock-prices-buy');
+            if(beginCheckout !== null) {
+                dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
+                dataLayer.push({
+                    'event': 'begin_checkout',
+                    'ecommerce': {
+                        'items': products,
+                    },
+                });
+            }
+        }, false);
+    </script>
+
+                <!-- End dataLayer tags for GTM -->
+
+                
+
+            
+            <script type="text/javascript">
+                var diagnostics = undefined;
+            </script>
+        <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91e32c17285ae1dc',t:'MTc0MTYxMzQ4NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;91e32c17285ae1dc&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.1.0&quot;,&quot;token&quot;:&quot;b08d2b7dd11c4efdb37da9a2a7e5e496&quot;}" crossorigin="anonymous"></script>
+
+    
+
+<object id="__symantecPKIClientMessenger" data-supports-flavor-configuration="true" data-extension-version="0.5.0.109" style="display: none;"></object><span id="__symantecPKIClientDetector" style="display: none;">__PRESENT</span><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><script type="text/javascript" id="" charset="">window.uetq=window.uetq||[];window.uetq.push("event","",{ecomm_prodid:"undefined",ecomm_pagetype:"undefined"});window.uetq.push("consent","update",{ad_storage:"granted"});</script><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-3" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><iframe allow="join-ad-interest-group" data-tagging-id="G-7WZS7MZK1C" data-load-time="1741613485036" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-7WZS7MZK1C&amp;gacid=622586800.1741168416&amp;gtm=45je5362v888425566z8810860640za200zb810860640&amp;dma=1&amp;dma_cps=syphamo&amp;gcs=G111&amp;gcd=13n3n3n2n5l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837&amp;z=1757481527" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-803069085" data-load-time="1741613485072" height="0" width="0" src="https://td.doubleclick.net/td/rul/803069085?random=1741613485059&amp;cv=11&amp;fst=1741613485059&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5362v9173112607z8810860640za200zb810860640&amp;gcd=13n3n3n2n5l1&amp;dma_cps=syphamo&amp;dma=1&amp;tag_exp=102015666~102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837&amp;u_w=1280&amp;u_h=800&amp;url=https%3A%2F%2Fwww.inversoro.es%2Fpedido%2F&amp;ref=https%3A%2F%2Fwww.inversoro.es%2Fmonedas-de-oro%2Fmonedas-oro-decimo-onza%2Fbritania-1-10-onza-oro-nuestra-eleccion%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Confirmar%20precios%20-Inversoro%20-%20Lingotes%20de%20oro%2C%20plata%20y%20platino%20homologados%20por%20la%20LBMA&amp;npa=0&amp;pscdl=noapi&amp;auid=1483723789.1741168416&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.141%7CChromium%3B133.0.6943.141&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-803069085" data-load-time="1741613485078" height="0" width="0" src="https://td.doubleclick.net/td/rul/803069085?random=1741613485076&amp;cv=11&amp;fst=1741613485076&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5362v9173112607z8810860640za200zb810860640&amp;gcd=13n3n3n2n5l1&amp;dma_cps=syphamo&amp;dma=1&amp;tag_exp=102015666~102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837&amp;u_w=1280&amp;u_h=800&amp;url=https%3A%2F%2Fwww.inversoro.es%2Fpedido%2F&amp;ref=https%3A%2F%2Fwww.inversoro.es%2Fmonedas-de-oro%2Fmonedas-oro-decimo-onza%2Fbritania-1-10-onza-oro-nuestra-eleccion%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Confirmar%20precios%20-Inversoro%20-%20Lingotes%20de%20oro%2C%20plata%20y%20platino%20homologados%20por%20la%20LBMA&amp;npa=0&amp;pscdl=noapi&amp;auid=1483723789.1741168416&amp;uaa=x86&amp;uab=64&amp;uafvl=Not(A%253ABrand%3B99.0.0.0%7CGoogle%2520Chrome%3B133.0.6943.141%7CChromium%3B133.0.6943.141&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fledge=1&amp;_tu=Cg&amp;data=dynx_itemid%3Dother%3Bdynx_pagetype%3Dbasket%3Bdynx_totalvalue%3D0" style="display: none; visibility: hidden;"></iframe><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div id="batBeacon735974467239" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img id="batBeacon424837994030" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=19001185&amp;tm=gtm002&amp;Ver=2&amp;mid=ee1b44bd-4cbf-4355-b93b-02319d82ec9c&amp;bo=2&amp;sid=f6b5cdd0fdb311efa33a254e036798a1&amp;vid=ae5973f0f9a711ef9aadfdd50db3b8d7&amp;vids=0&amp;msclkid=N&amp;uach=pv%3D15.0.0&amp;pi=918639831&amp;lg=pt-BR&amp;sw=1280&amp;sh=800&amp;sc=24&amp;tl=Confirmar%20precios%20-Inversoro%20-%20Lingotes%20de%20oro,%20plata%20y%20platino%20homologados%20por%20la%20LBMA&amp;p=https%3A%2F%2Fwww.inversoro.es%2Fpedido%2F&amp;r=https%3A%2F%2Fwww.inversoro.es%2Fmonedas-de-oro%2Fmonedas-oro-decimo-onza%2Fbritania-1-10-onza-oro-nuestra-eleccion%2F&amp;lt=694&amp;evt=pageLoad&amp;sv=1&amp;asc=G&amp;cdb=AQAQ&amp;rn=306757" style="width: 0px; height: 0px; display: none; visibility: hidden;"></div></body>
