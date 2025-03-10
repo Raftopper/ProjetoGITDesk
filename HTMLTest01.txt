@@ -1,0 +1,1064 @@
+<html lang="pt-br" prefix="og: https://ogp.me/ns#" style=""><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"> <link type="text/css" rel="stylesheet" href="https://bot-server.s3.amazonaws.com/css/font-awesome-insite.min.gz.css"><link type="text/css" rel="stylesheet" href="https://bot-server.s3.amazonaws.com/in-framework/main-v2.gz.css?v4f"><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482653903&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482056730&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-851972798&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482663727&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16490923103&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482686074&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482659346&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16516482787&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482684308&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script src="https://js.hscollectedforms.net/collectedforms.js" type="text/javascript" id="CollectedForms-44736563" crossorigin="anonymous" data-leadin-portal-id="44736563" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="44736563" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-banner.com/v2/44736563/banner.js" type="text/javascript" id="cookieBanner-44736563" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="44736563" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hsadspixel.net/fb.js" type="text/javascript" id="hs-ads-pixel-44736563" data-ads-portal-id="44736563" data-ads-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="44736563" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js-na1.hs-scripts.com/44736563.js" type="text/javascript" id="hs-script-loader"></script><script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script><link type="text/css" rel="stylesheet" href="https://bot-server.s3.amazonaws.com/js/inbot.gz.css?V2n"><script type="text/javascript" async="" src="https://bot-server.s3.amazonaws.com/js/inbot-framework.gz.js?V7u" id="inbot_main_script"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/f6e09c70/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://connect.facebook.net/signals/config/637579017733369?v=2.9.186&amp;r=stable&amp;domain=d4uimmigration.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114%2C136%2C166%2C201%2C203%2C243%2C169%2C227%2C124%2C160%2C148%2C154%2C131%2C240%2C118%2C202%2C128%2C129%2C149%2C176%2C162%2C120%2C241%2C168%2C121%2C138%2C125%2C157%2C151%2C198%2C115%2C130" async=""></script><script src="https://connect.facebook.net/signals/config/1473058753619198?v=2.9.186&amp;r=stable&amp;domain=d4uimmigration.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114%2C136%2C166%2C201%2C203%2C243%2C169%2C227%2C124%2C160%2C148%2C154%2C131%2C240%2C118%2C202%2C128%2C129%2C149%2C176%2C162%2C120%2C241%2C168%2C121%2C138%2C125%2C157%2C151%2C198%2C115%2C130" async=""></script><script src="https://connect.facebook.net/signals/config/1399857517169332?v=2.9.186&amp;r=stable&amp;domain=d4uimmigration.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114%2C136%2C166%2C201%2C203%2C243%2C169%2C227%2C124%2C160%2C148%2C154%2C131%2C240%2C118%2C202%2C128%2C129%2C149%2C176%2C162%2C120%2C241%2C168%2C121%2C138%2C125%2C157%2C151%2C198%2C115%2C130" async=""></script><script src="https://connect.facebook.net/signals/config/1248587029258291?v=2.9.186&amp;r=stable&amp;domain=d4uimmigration.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//www.youtube.com/iframe_api"></script><script async="" src="https://www.clarity.ms/s/0.8.0/clarity.js"></script><script async="" src="https://www.clarity.ms/tag/pz15o83x1p?ref=gtm2"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10825326381&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-H2S2LH5TNX&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v894764701za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1741611900000/44736563.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TFWXS75"></script><script>/*<![CDATA[*/var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});/*]]>*/</script> <meta name="theme-color" content="#ffffff"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><style>img:is([sizes="auto" i], [sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}</style><link rel="alternate" hreflang="pt-br" href="https://d4uimmigration.com/pt-br/visto/eb-2-niw"><link rel="alternate" hreflang="en" href="https://d4uimmigration.com/en/visa/eb-2-niw"><link rel="alternate" hreflang="es" href="https://d4uimmigration.com/es/visas/eb-2-niw"><link rel="alternate" hreflang="x-default" href="https://d4uimmigration.com/pt-br/visto/eb-2-niw"><title>EB-2 NIW - D4U Immigration</title><meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"><link rel="canonical" href="https://d4uimmigration.com/pt-br/visto/eb-2-niw"><meta property="og:locale" content="pt_BR"><meta property="og:type" content="article"><meta property="og:title" content="EB-2 NIW - D4U Immigration"><meta property="og:url" content="https://d4uimmigration.com/pt-br/visto/eb-2-niw"><meta property="og:site_name" content="website2.d4uimmigration.com"><meta property="og:updated_time" content="2025-02-17T15:33:21-05:00"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="EB-2 NIW - D4U Immigration"> <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https://d4uimmigration.com/pt-br/visto/eb-2-niw#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://d4uimmigration.com","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://d4uimmigration.com/pt-br/visto/eb-2-niw","name":"EB-2 NIW"}}]}]}</script>  <script id="pys-version-script">console.log('PixelYourSite PRO version 11.2.3');</script> <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"> <script>/*<![CDATA[*/window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/d4uimmigration.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);/*]]>*/</script> <style id="wp-emoji-styles-inline-css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+0.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link rel="stylesheet" id="wp-block-library-css" href="https://d4uimmigration.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2" type="text/css" media="all"><style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style><style id="global-styles-inline-css">/*<![CDATA[*/:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:0.44rem;--wp--preset--spacing--30:0.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp:6px 6px 0px rgba(0, 0, 0, 1)}:where(.is-layout-flex){gap:0.5em}:where(.is-layout-grid){gap:0.5em}body .is-layout-flex{display:flex}.is-layout-flex{flex-wrap:wrap;align-items:center}.is-layout-flex>:is(*,div){margin:0}body .is-layout-grid{display:grid}.is-layout-grid>:is(*,div){margin:0}:where(.wp-block-columns.is-layout-flex){gap:2em}:where(.wp-block-columns.is-layout-grid){gap:2em}:where(.wp-block-post-template.is-layout-flex){gap:1.25em}:where(.wp-block-post-template.is-layout-grid){gap:1.25em}.has-black-color{color:var(--wp--preset--color--black) !important}.has-cyan-bluish-gray-color{color:var(--wp--preset--color--cyan-bluish-gray) !important}.has-white-color{color:var(--wp--preset--color--white) !important}.has-pale-pink-color{color:var(--wp--preset--color--pale-pink) !important}.has-vivid-red-color{color:var(--wp--preset--color--vivid-red) !important}.has-luminous-vivid-orange-color{color:var(--wp--preset--color--luminous-vivid-orange) !important}.has-luminous-vivid-amber-color{color:var(--wp--preset--color--luminous-vivid-amber) !important}.has-light-green-cyan-color{color:var(--wp--preset--color--light-green-cyan) !important}.has-vivid-green-cyan-color{color:var(--wp--preset--color--vivid-green-cyan) !important}.has-pale-cyan-blue-color{color:var(--wp--preset--color--pale-cyan-blue) !important}.has-vivid-cyan-blue-color{color:var(--wp--preset--color--vivid-cyan-blue) !important}.has-vivid-purple-color{color:var(--wp--preset--color--vivid-purple) !important}.has-black-background-color{background-color:var(--wp--preset--color--black) !important}.has-cyan-bluish-gray-background-color{background-color:var(--wp--preset--color--cyan-bluish-gray) !important}.has-white-background-color{background-color:var(--wp--preset--color--white) !important}.has-pale-pink-background-color{background-color:var(--wp--preset--color--pale-pink) !important}.has-vivid-red-background-color{background-color:var(--wp--preset--color--vivid-red) !important}.has-luminous-vivid-orange-background-color{background-color:var(--wp--preset--color--luminous-vivid-orange) !important}.has-luminous-vivid-amber-background-color{background-color:var(--wp--preset--color--luminous-vivid-amber) !important}.has-light-green-cyan-background-color{background-color:var(--wp--preset--color--light-green-cyan) !important}.has-vivid-green-cyan-background-color{background-color:var(--wp--preset--color--vivid-green-cyan) !important}.has-pale-cyan-blue-background-color{background-color:var(--wp--preset--color--pale-cyan-blue) !important}.has-vivid-cyan-blue-background-color{background-color:var(--wp--preset--color--vivid-cyan-blue) !important}.has-vivid-purple-background-color{background-color:var(--wp--preset--color--vivid-purple) !important}.has-black-border-color{border-color:var(--wp--preset--color--black) !important}.has-cyan-bluish-gray-border-color{border-color:var(--wp--preset--color--cyan-bluish-gray) !important}.has-white-border-color{border-color:var(--wp--preset--color--white) !important}.has-pale-pink-border-color{border-color:var(--wp--preset--color--pale-pink) !important}.has-vivid-red-border-color{border-color:var(--wp--preset--color--vivid-red) !important}.has-luminous-vivid-orange-border-color{border-color:var(--wp--preset--color--luminous-vivid-orange) !important}.has-luminous-vivid-amber-border-color{border-color:var(--wp--preset--color--luminous-vivid-amber) !important}.has-light-green-cyan-border-color{border-color:var(--wp--preset--color--light-green-cyan) !important}.has-vivid-green-cyan-border-color{border-color:var(--wp--preset--color--vivid-green-cyan) !important}.has-pale-cyan-blue-border-color{border-color:var(--wp--preset--color--pale-cyan-blue) !important}.has-vivid-cyan-blue-border-color{border-color:var(--wp--preset--color--vivid-cyan-blue) !important}.has-vivid-purple-border-color{border-color:var(--wp--preset--color--vivid-purple) !important}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important}.has-cool-to-warm-spectrum-gradient-background{background:var(--wp--preset--gradient--cool-to-warm-spectrum) !important}.has-blush-light-purple-gradient-background{background:var(--wp--preset--gradient--blush-light-purple) !important}.has-blush-bordeaux-gradient-background{background:var(--wp--preset--gradient--blush-bordeaux) !important}.has-luminous-dusk-gradient-background{background:var(--wp--preset--gradient--luminous-dusk) !important}.has-pale-ocean-gradient-background{background:var(--wp--preset--gradient--pale-ocean) !important}.has-electric-grass-gradient-background{background:var(--wp--preset--gradient--electric-grass) !important}.has-midnight-gradient-background{background:var(--wp--preset--gradient--midnight) !important}.has-small-font-size{font-size:var(--wp--preset--font-size--small) !important}.has-medium-font-size{font-size:var(--wp--preset--font-size--medium) !important}.has-large-font-size{font-size:var(--wp--preset--font-size--large) !important}.has-x-large-font-size{font-size:var(--wp--preset--font-size--x-large) !important}:where(.wp-block-post-template.is-layout-flex){gap:1.25em}:where(.wp-block-post-template.is-layout-grid){gap:1.25em}:where(.wp-block-columns.is-layout-flex){gap:2em}:where(.wp-block-columns.is-layout-grid){gap:2em}:root :where(.wp-block-pullquote){font-size:1.5em;line-height:1.6}/*]]>*/</style><link rel="stylesheet" id="wpml-legacy-dropdown-click-0-css" href="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/style.min.css?ver=1" type="text/css" media="all"><link rel="stylesheet" id="main-css" href="https://d4uimmigration.com/wp-content/themes/d4u/assets/css/main.css?ver=1493074973" type="text/css" media="all"><link rel="stylesheet" id="style-css" href="https://d4uimmigration.com/wp-content/themes/d4u/style.css?ver=1.0" type="text/css" media="all"><link rel="stylesheet" id="intlTelInputCSS-css" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/css/intlTelInput.min.css?ver=6.7.2" type="text/css" media="all"> <script id="wpml-cookie-js-extra">var wpml_cookies={"wp-wpml_current_language":{"value":"pt-br","expires":1,"path":"\/"}};var wpml_cookies={"wp-wpml_current_language":{"value":"pt-br","expires":1,"path":"\/"}};</script> <script src="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.15" id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script> <script src="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/script.min.js?ver=1" id="wpml-legacy-dropdown-click-0-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/chart.js?ver=6.7.2" id="chart-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/jquery.min.js" id="jquery-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js" id="jquery-bind-first-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/tld.min.js?ver=2.3.1" id="js-tld-js"></script> <script id="pys-js-extra">var pysOptions={"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","ajaxFire":false,"name":"PageView","eventID":"9f10d39a-565a-49f6-8aaf-08cd4e8af459","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":{"automatic_event_internal_link":{"facebook":{"delay":0,"type":"dyn","name":"InternalClick","eventID":"9fc79dec-7a55-4ceb-a3db-96cff198e5c5","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_internal_link","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_outbound_link":{"facebook":{"delay":0,"type":"dyn","name":"OutboundClick","eventID":"b1e66ad1-2092-4567-b4ba-d7701660e7b6","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_outbound_link","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_video":{"facebook":{"delay":0,"type":"dyn","name":"WatchVideo","eventID":"85a129e8-d2f9-4a5b-aad4-a5f4fd4d23e6","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_video","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_tel_link":{"facebook":{"delay":0,"type":"dyn","name":"TelClick","eventID":"ced6d873-199d-40f0-94bf-b126040c52c3","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_tel_link","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_email_link":{"facebook":{"delay":0,"type":"dyn","name":"EmailClick","eventID":"14334fc1-6736-4b26-990e-8cbee3340d4e","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_email_link","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_form":{"facebook":{"delay":0,"type":"dyn","name":"Form","eventID":"7138a6cf-e95a-4ccd-9987-761609d2cbe2","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_form","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_download":{"facebook":{"delay":0,"type":"dyn","name":"Download","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"eventID":"41fc163e-b4fe-4cfe-9a28-c6905bcf8724","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_download","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_comment":{"facebook":{"delay":0,"type":"dyn","name":"Comment","eventID":"41ad66a5-6794-4068-aee2-33d54a21626a","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_comment","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_adsense":{"facebook":{"delay":0,"type":"dyn","name":"AdSense","eventID":"4b40ffcc-6a98-404c-9418-489177c22dfe","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_adsense","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_scroll":{"facebook":{"delay":0,"type":"dyn","name":"PageScroll","scroll_percent":30,"eventID":"232f3475-9191-4221-973b-16eddd6b5b74","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_scroll","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_time_on_page":{"facebook":{"delay":0,"type":"dyn","name":"TimeOnPage","time_on_page":30,"eventID":"407c2013-4cfe-465e-8072-41a72ac48648","pixelIds":["1248587029258291"],"params":{"page_title":"EB-2 NIW","post_type":"visto","post_id":5750,"plugin":"PixelYourSite","event_url":"d4uimmigration.com\/pt-br\/visto\/eb-2-niw","user_role":"guest"},"e_id":"automatic_event_time_on_page","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}}},"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["1248587029258291"],"advancedMatchingEnabled":true,"advancedMatching":{"em":"rafmcs@live.com"},"removeMetadata":true,"wooVariableAsSimple":false,"serverApiEnabled":true,"wooCRSendFromServer":false,"send_external_id":true,"enabled_medical":false,"do_not_track_medical_param":["event_url","post_title","page_title","landing_page","content_name","categories","tags","category_name"],"meta_ldu":false,"hide_pixels":[]},"debug":"","siteUrl":"https:\/\/d4uimmigration.com","ajaxUrl":"https:\/\/d4uimmigration.com\/wp-admin\/admin-ajax.php","ajax_event":"922a2fe3a7","trackUTMs":"1","trackTrafficSource":"1","user_id":"0","enable_lading_page_param":"1","cookie_duration":"7","enable_event_day_param":"1","enable_event_month_param":"1","enable_event_time_param":"1","enable_remove_target_url_param":"1","enable_remove_download_url_param":"1","visit_data_model":"first_visit","last_visit_duration":"60","enable_auto_save_advance_matching":"1","enable_success_send_form":"","enable_automatic_events":"1","enable_event_video":"1","ajaxForServerEvent":"1","ajaxForServerStaticEvent":"1","send_external_id":"1","external_id_expire":"180","track_cookie_for_subdomains":"1","google_consent_mode":"1","data_persistency":"keep_data","advance_matching_form":{"enable_advance_matching_forms":true,"advance_matching_fn_names":["first_name","first-name","first name","name"],"advance_matching_ln_names":["last_name","last-name","last name"],"advance_matching_tel_names":["phone","tel"],"advance_matching_em_names":[]},"advance_matching_url":{"enable_advance_matching_url":true,"advance_matching_fn_names":[],"advance_matching_ln_names":[],"advance_matching_tel_names":[],"advance_matching_em_names":[]},"track_dynamic_fields":[],"gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"tiktok_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"tiktok_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_tiktok_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"consent_magic_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"www.google.com","TrafficLanding":"https:\/\/d4uimmigration.com\/pt-br\/visto\/eb-2-niw","TrafficUtms":{"utm_source":"adwords","utm_medium":"ppc","utm_campaign":"%5B%C3%81rea:+Canad%C3%A1%5D+%5BIdioma:+BR%5D+%5BDestino:+EUA%5D+%2B%5BT%C3%B3pico%5D+Visto+de+Trabalho","utm_term":"visto%20trabalho%20eua"},"TrafficUtmsId":[],"userDataEnable":true,"userData":{"emails":[],"phones":[],"addresses":[]},"use_encoding_provided_data":true,"use_multiple_provided_data":true},"GATags":{"ga_datalayer_type":"default","ga_datalayer_name":"dataLayerPYS"},"automatic":{"enable_youtube":true,"enable_vimeo":true,"enable_video":true},"woo":{"enabled":false},"edd":{"enabled":false},"cache_bypass":"1741611674"};</script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=11.2.3" id="pys-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-super-pack/dist/scripts/public.js?ver=5.4.1" id="pys_sp_public_js-js"></script> <link rel="https://api.w.org/" href="https://d4uimmigration.com/pt-br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://d4uimmigration.com/pt-br/wp-json/wp/v2/visto/5750"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://d4uimmigration.com/xmlrpc.php?rsd"><meta name="generator" content="WordPress 6.7.2"><link rel="shortlink" href="https://d4uimmigration.com/pt-br?p=5750"><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://d4uimmigration.com/pt-br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fd4uimmigration.com%2Fpt-br%2Fvisto%2Feb-2-niw"><link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://d4uimmigration.com/pt-br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fd4uimmigration.com%2Fpt-br%2Fvisto%2Feb-2-niw&amp;format=xml"><meta name="generator" content="WPML ver:4.6.15 stt:1,42,2;"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&amp;family=Montserrat:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet"> <script>const ajaxUrl="https://d4uimmigration.com/wp-admin/admin-ajax.php";const siteUrl="https://d4uimmigration.com/pt-br";</script> <link rel="icon" href="https://d4uimmigration.com/wp-content/uploads/2025/01/cropped-Logo_D4U_p-1-150x150.png" sizes="32x32"><link rel="icon" href="https://d4uimmigration.com/wp-content/uploads/2025/01/cropped-Logo_D4U_p-1-300x300.png" sizes="192x192"><link rel="apple-touch-icon" href="https://d4uimmigration.com/wp-content/uploads/2025/01/cropped-Logo_D4U_p-1-300x300.png"><meta name="msapplication-TileImage" content="https://d4uimmigration.com/wp-content/uploads/2025/01/cropped-Logo_D4U_p-1-300x300.png"> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TFWXS75');</script> <script src="https://d4uimmigration.com/wp-includes/js/wp-emoji-release.min.js?ver=6.7.2" defer=""></script><style>.hide_in_production { display: none; }</style>
+  <style>
+    th.sortable {
+      cursor: pointer;
+      white-space: nowrap; /* para icone nao ter quebra de br */
+    }
+    th.sortable .th-content {
+      display: inline-block;
+    }
+
+      .sort-icons {
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 12px;
+      }
+      .sort-icon-asc, .sort-icon-desc {
+        display: block;
+        font-size: 0.8em;
+        opacity: 0.5;
+        transition: opacity 0.2s;
+      }
+      .sort-icon-asc.active, .sort-icon-desc.active {
+        opacity: 1;
+        font-size: 1em;
+      }
+
+  </style>
+<style>.hide_in_production { display: none; }</style><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16482684308"></script></head><body class="visto-template-default single single-visto postid-5750"> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFWXS75" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script><script id="chatscript" src="https://bot-server.s3.amazonaws.com/api/inbot.gz.js?bot_id=810&amp;bot_token=1vbvtaltya&amp;bot_server_type=production" async=""></script> <header class="header"><div class="container"><div class="row align-items-center"><div class="col-auto col-lg-auto order-lg-1"> <a href="https://d4uimmigration.com/pt-br" class="header__logo"> <img src="/wp-content/uploads/2022/07/Logo_D4U_cb.svg" alt="" width="100"> </a></div><div class="col col-lg-auto order-lg-3 text-center"> <a href="https://d4uimmigration.com/pt-br/visto/eb-2-niw" class="header__cta"> Análise gratuita <br> <strong>Envie seu currículo</strong>		</a></div><div class="col-auto order-lg-4"><div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-dropdown-click js-wpml-ls-legacy-dropdown-click"><ul><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-pt-br wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-dropdown-click"><a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle"> <img class="wpml-ls-flag" src="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg" alt="" width="18" height="12"><span class="wpml-ls-native">Português</span></a><ul class="js-wpml-ls-sub-menu wpml-ls-sub-menu"> <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en"> <a href="https://d4uimmigration.com/en/visa/eb-2-niw" class="wpml-ls-link"> <img class="wpml-ls-flag" src="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg" alt="" width="18" height="12"><span class="wpml-ls-native" lang="en">English</span><span class="wpml-ls-display"><span class="wpml-ls-bracket"> (</span>Inglês<span class="wpml-ls-bracket">)</span></span></a> </li> <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-last-item"> <a href="https://d4uimmigration.com/es/visas/eb-2-niw" class="wpml-ls-link"> <img class="wpml-ls-flag" src="https://d4uimmigration.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg" alt="" width="18" height="12"><span class="wpml-ls-native" lang="es">Español</span><span class="wpml-ls-display"><span class="wpml-ls-bracket"> (</span>Espanhol<span class="wpml-ls-bracket">)</span></span></a> </li></ul></li></ul></div></div><div class="col-auto d-lg-none text-end"> <button class="btn-hamburger" data-nav="#nav-header"> <span class="btn-hamburger__line"></span> <span class="btn-hamburger__line"></span> <span class="btn-hamburger__line"></span> </button></div><div class="col-lg-auto px-0 px-lg-4 order-lg-2"><nav class="nav-header" id="nav-header"><ul id="menu-menu-principal" class="top-menu"><li id="menu-item-4133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4133"><a href="#">Destinos <i class="fa-solid fa-chevron-down"></i></a><ul class="sub-menu"> <li id="menu-item-6432" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-6432"><a href="https://d4uimmigration.com/pt-br/pais/estados-unidos">Estados Unidos</a></li> <li id="menu-item-6831" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-6831"><a href="https://d4uimmigration.com/pt-br/pais/europa">Europa</a></li> <li id="menu-item-6832" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-6832"><a href="https://d4uimmigration.com/pt-br/pais/emirados-arabes-unidos">Emirados Árabes Unidos</a></li></ul> </li> <li id="menu-item-4134" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4134"><a href="#">Vistos <i class="fa-solid fa-chevron-down"></i></a><ul class="sub-menu"> <li id="menu-item-6419" class="menu-item menu-item-type-post_type menu-item-object-visto menu-item-6419"><a href="https://d4uimmigration.com/pt-br/visto/visto-de-turista">B1/B2</a></li> <li id="menu-item-6421" class="menu-item menu-item-type-post_type menu-item-object-visto menu-item-6421"><a href="https://d4uimmigration.com/pt-br/visto/f-1">F-1</a></li> <li id="menu-item-9283" class="menu-item menu-item-type-post_type menu-item-object-visto menu-item-9283"><a href="https://d4uimmigration.com/pt-br/visto/eb-1">EB-1</a></li> <li id="menu-item-6422" class="menu-item menu-item-type-post_type menu-item-object-visto current-menu-item menu-item-6422"><a href="https://d4uimmigration.com/pt-br/visto/eb-2-niw" aria-current="page">EB-2 NIW</a></li> <li id="menu-item-14806" class="menu-item menu-item-type-post_type menu-item-object-visto menu-item-14806"><a href="https://d4uimmigration.com/pt-br/visto/eb-5">EB-5</a></li> <li id="menu-item-11800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11800"><a href="https://d4uimmigration.com/pt-br/pais/estados-unidos">Outros vistos</a></li></ul> </li> <li id="menu-item-6444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6444"><a href="https://d4uimmigration.com/pt-br/d4u-club">D4U Club</a></li> <li id="menu-item-6013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6013"><a href="https://d4uimmigration.com/pt-br/blog">Blog</a></li> <li id="menu-item-6408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6408"><a href="https://d4uimmigration.com/pt-br/quem-somos/nossa-historia">Nossa História</a></li> <li id="menu-item-6367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367"><a href="https://d4uimmigration.com/pt-br/fale-conosco">Fale conosco</a></li></ul></nav></div></div></div></header><div class="header-dummy " style="height: 80px;"></div><section class="lp-sec-intro " style="background-image: linear-gradient(rgba(244, 244, 244, 0.6), rgba(244, 244, 244, 0.6)), url(https://d4uimmigration.com/wp-content/uploads/2024/06/custo-de-vida-em-diferentes-cidades.jpg); background-size: auto, cover;"><div class="container"><div class="row"><div class="col-lg-6 mb-5 mb-lg-0"><article class="lp-sec-intro__content"><h1 class="lp-sec-intro__title"> Você pode ter um Green Card com o visto EB-2 NIW</h1><p>Esse visto é destinado aos profissionais com bacharelado + 5 anos de experiência em sua área. Nos EUA, esses profissionais são considerados acima da média e, por isso, podem conquistar o Green Card por meio desse visto.</p><p>Você tem dúvidas sobre o visto americano EB-2 NIW? Faça sua análise gratuita de elegibilidade e descubra como conquistar o seu Green Card!</p><p><strong>Quer saber o caminho para o seu Green Card? O time da D4U está à sua disposição.</strong></p></article></div><div class="col-lg-6"><div class="lp-sec-intro__form"> <script></script><div id="gform_confirmation_wrapper_67" data-form-theme="orbital" class="gform_confirmation_wrapper gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital d4u_siteForm_lead"><style>/*<![CDATA[*/#gform_confirmation_wrapper_67.gform-theme{--gf-color-primary:#204ce5;--gf-color-primary-rgb:32, 76, 229;--gf-color-primary-contrast:#fff;--gf-color-primary-contrast-rgb:255, 255, 255;--gf-color-primary-darker:#001AB3;--gf-color-primary-lighter:#527EFF;--gf-color-secondary:#fff;--gf-color-secondary-rgb:255, 255, 255;--gf-color-secondary-contrast:#112337;--gf-color-secondary-contrast-rgb:17, 35, 55;--gf-color-secondary-darker:#F5F5F5;--gf-color-secondary-lighter:#FFF;--gf-color-out-ctrl-light:rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb:17, 35, 55;--gf-color-out-ctrl-light-darker:rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter:#F5F5F5;--gf-color-out-ctrl-dark:#585e6a;--gf-color-out-ctrl-dark-rgb:88, 94, 106;--gf-color-out-ctrl-dark-darker:#112337;--gf-color-out-ctrl-dark-lighter:rgba(17, 35, 55, 0.65);--gf-color-in-ctrl:#fff;--gf-color-in-ctrl-rgb:255, 255, 255;--gf-color-in-ctrl-contrast:#112337;--gf-color-in-ctrl-contrast-rgb:17, 35, 55;--gf-color-in-ctrl-darker:#F5F5F5;--gf-color-in-ctrl-lighter:#FFF;--gf-color-in-ctrl-primary:#204ce5;--gf-color-in-ctrl-primary-rgb:32, 76, 229;--gf-color-in-ctrl-primary-contrast:#fff;--gf-color-in-ctrl-primary-contrast-rgb:255, 255, 255;--gf-color-in-ctrl-primary-darker:#001AB3;--gf-color-in-ctrl-primary-lighter:#527EFF;--gf-color-in-ctrl-light:rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb:17, 35, 55;--gf-color-in-ctrl-light-darker:rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter:#F5F5F5;--gf-color-in-ctrl-dark:#585e6a;--gf-color-in-ctrl-dark-rgb:88, 94, 106;--gf-color-in-ctrl-dark-darker:#112337;--gf-color-in-ctrl-dark-lighter:rgba(17, 35, 55, 0.65);--gf-radius:3px;--gf-font-size-secondary:14px;--gf-font-size-tertiary:13px;--gf-icon-ctrl-number:url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select:url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search:url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' width='640' height='640'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary:var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color:#686e77;--gf-ctrl-size:var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary:#112337;--gf-ctrl-label-color-secondary:#112337;--gf-ctrl-choice-size:var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size:var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size:var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size:var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x:var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size:var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary:#686e77;--gf-ctrl-file-btn-bg-color-hover:#EBEBEB;--gf-field-img-choice-size:var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space:var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size:var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size:var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color:rgba(17, 35, 55, 0.8)}/*]]>*/</style><div id="gform_confirmation_message_67" class="gform_confirmation_message_67 gform_confirmation_message"><strong>Obrigado por entrar em contato com a D4U Immigration!</strong><br> <br> Vamos analisar as suas informações e checar se você possui boas chances de elegibilidade, e te daremos retorno nos próximos dias por e-mail. Fique atento!</div></div></div></div></div><div class="py-5 my-5"></div><article class="snippet-call"><div class="row"><div class="col-lg-6 mb-5 mb-lg-0"><div class="snippet-call__content"><p><img fetchpriority="high" decoding="async" class="alignnone wp-image-6824 size-medium" src="/wp-content/uploads/2024/11/selo-mbg-branco.svg" alt="" width="300" height="300"></p><h2>Seu visto EB aprovado ou seu dinheiro de volta!</h2><p>Com 9 anos de história, confiamos em nossa expertise, por isso, oferecemos uma garantia sem precedentes: se o seu visto EB-1 ou EB-2 NIW não for aprovado, você recebe 100% do seu investimento de volta após a terceira aplicação.</p> <a href="https://d4uimmigration.com/condicao-especial/money-back-guarantee" target="_self" style="" class="btn btn-block btn-gold snippet-call__content-cta"> Encaminhe seu currículo para avaliação gratuita </a></div></div><div class="col-lg-6"><div class="snippet-call__video"> <iframe title="CAMPANHA MONEY BACK GUARANTEE" width="640" height="360" src="https://www.youtube.com/embed/kmYX182UC28?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-gtm-yt-inspected-10="true"></iframe></div></div></div></article></div></section><section class="lp-sec-text visto-content-text"><div class="container"><div class="row mb-5"><div class="col"><article class="lp-sec-text__content"><h2 class="text-center">O que é um visto EB-2 NIW?</h2><p></p><p>O EB-2 NIW é um visto de imigrante para os Estados Unidos destinado a trabalhadores estrangeiros que possuem habilidades avançadas em suas áreas de atuação.</p><p>NIW significa “National Interest Waiver (Dispensa de Interesse Nacional), ou seja, esse visto permite que certos profissionais e indivíduos altamente qualificados solicitem o Green Card sem a necessidade de um patrocinador ou empregador nos EUA. Isso ocorre porque a presença desses indivíduos é considerada de interesse nacional, dispensando o requisito de um patrocinador.</p><h3>Quais os requisitos para EB-2 NIW?</h3><p>Para solicitar o visto americano EB-2 e conquistar seu Green Card, é necessário demonstrar que você possui habilidades em diferentes áreas profissionais. Também é importante mostrar que sua presença nos EUA beneficiará a economia, a cultura ou a sociedade em geral.</p><p>Os requisitos do EB-2 NIW podem incluir: diploma educacional em uma área de interesse, aptidões avançadas, salário acima da média do ramo de atuação, contribuição nacional (reconhecimento ou prêmios), carta de recomendação, dispensa de trabalho e auto-petição.</p><h3>Como a D4U Immigration pode ajudar na conquista do EB-2 NIW?</h3><p>Através da nossa assessoria imigratória completa, você conta com o apoio de profissionais especializados em identificar os aspectos essenciais para a apresentação do seu pedido ao Departamento de Imigração dos EUA.</p><p>Descubra se você está qualificado para a solicitação do visto EB-2 NIW e para conquistar o tão sonhado Green Card!</p><p></p></article></div></div></div></section><section class="sec-padding sec-visto-video"><div class="container"><div class="lp-video mb-0"> <iframe title="VISTO EB-2 NIW [ATUALIZADO 2024] – SUA CHANCE DE MORAR NOS EUA" width="640" height="360" src="https://www.youtube.com/embed/HZ9VYBRfNh4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-gtm-yt-inspected-10="true"></iframe></div></div></section><section class="lp-sec-video"><div class="container"><div class="row justify-content-center mb-5"><div class="col-lg-8"><article class="lp-sec-video__content"><h2 class="lp-sec-video__title"> Giovanna Antonelli</h2><h3 class="lp-sec-video__subtitle"> Embaixadora D4U Immigration</h3></article></div></div><div class="row justify-content-center"><div class="col-lg-8"><div class="lp-video"><p><iframe title="Giovanna Antonelli agora é D4U Immigration" width="500" height="281" src="https://www.youtube.com/embed/LRSy0Cbp94I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-gtm-yt-inspected-10="true"></iframe></p></div><a href="#contact" target="_self" style="" class="lp-cta w-100 text-uppercase jumper"> EU QUERO UMA ANÁLISE GRATUITA! </a></div></div></div></section><section class="lp-sec-cards"><div class="container"><div class="row g-5"><div class="col-sm-6 col-lg-3"> <a href="https://d4uimmigration.com/pt-br/diferencial/diretor-aposentado-da-uscis"><article class="card"><div class="card__icon"> <img width="1" height="1" src="https://d4uimmigration.com/wp-content/uploads/2024/12/uscis.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy"></div><h3 class="card__title"> Diretor aposentado da USCIS</h3></article> </a></div><div class="col-sm-6 col-lg-3"> <a href="https://d4uimmigration.com/pt-br/diferencial/indice-de-aprovacao-em-99"><article class="card"><div class="card__icon"> <img width="1" height="1" src="https://d4uimmigration.com/wp-content/uploads/2024/12/diferencial-99-por-cento-aprovacao.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy"></div><h3 class="card__title"> Índice de aprovação em 99%</h3></article> </a></div><div class="col-sm-6 col-lg-3"> <a href="https://d4uimmigration.com/pt-br/diferencial/mais-de-12-000-beneficiados"><article class="card"><div class="card__icon"> <img width="1" height="1" src="https://d4uimmigration.com/wp-content/uploads/2024/12/diferencial-12000-pessoas.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy"></div><h3 class="card__title"> Mais de 13.000 beneficiados</h3></article> </a></div><div class="col-sm-6 col-lg-3"> <a href="https://d4uimmigration.com/pt-br/diferencial/um-especialista-para-cada-etapa"><article class="card"><div class="card__icon"> <img width="1" height="1" src="https://d4uimmigration.com/wp-content/uploads/2024/12/diferencial-especialista-cada-etapa.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy"></div><h3 class="card__title"> Um especialista para cada etapa</h3></article> </a></div></div></div></section><section class="lp-sec-video" style="background-image: url(/wp-content/uploads/2022/08/44142d_9539afe7cbe24bdf9bf277828fb4ef3d_mv2.webp); background-attachment: fixed;"><div class="container"><div class="row justify-content-center"><div class="col-lg-7"><article class="lp-sec-video__content"><div class="lp-video"><p><iframe loading="lazy" title="D4U USA Group - The best or nothing" width="500" height="281" src="https://www.youtube.com/embed/4_LW5xoEvhU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-gtm-yt-inspected-10="true"></iframe></p></div> <a href="#contact" target="_self" style="" class="lp-cta w-100 text-uppercase btn-gold jumper"> Eu quero uma análise gratuita </a></article></div></div></div></section><section class="sec-contact"> <span class="offset-menu-top" id="contact" style="height: 80px;"></span><div class="container"><div class="row"><div class="col-lg-6 mb-5"><h2 class="sec-contact__title">Avaliação gratuita</h2><h3 class="sec-contact__subtitle">Encaminhe seu currículo</h3></div><div class="col-lg-6"><div id="gform_confirmation_wrapper_67" data-form-theme="orbital" class="gform_confirmation_wrapper gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital d4u_siteForm_lead"><style>/*<![CDATA[*/#gform_confirmation_wrapper_67.gform-theme{--gf-color-primary:#204ce5;--gf-color-primary-rgb:32, 76, 229;--gf-color-primary-contrast:#fff;--gf-color-primary-contrast-rgb:255, 255, 255;--gf-color-primary-darker:#001AB3;--gf-color-primary-lighter:#527EFF;--gf-color-secondary:#fff;--gf-color-secondary-rgb:255, 255, 255;--gf-color-secondary-contrast:#112337;--gf-color-secondary-contrast-rgb:17, 35, 55;--gf-color-secondary-darker:#F5F5F5;--gf-color-secondary-lighter:#FFF;--gf-color-out-ctrl-light:rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb:17, 35, 55;--gf-color-out-ctrl-light-darker:rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter:#F5F5F5;--gf-color-out-ctrl-dark:#585e6a;--gf-color-out-ctrl-dark-rgb:88, 94, 106;--gf-color-out-ctrl-dark-darker:#112337;--gf-color-out-ctrl-dark-lighter:rgba(17, 35, 55, 0.65);--gf-color-in-ctrl:#fff;--gf-color-in-ctrl-rgb:255, 255, 255;--gf-color-in-ctrl-contrast:#112337;--gf-color-in-ctrl-contrast-rgb:17, 35, 55;--gf-color-in-ctrl-darker:#F5F5F5;--gf-color-in-ctrl-lighter:#FFF;--gf-color-in-ctrl-primary:#204ce5;--gf-color-in-ctrl-primary-rgb:32, 76, 229;--gf-color-in-ctrl-primary-contrast:#fff;--gf-color-in-ctrl-primary-contrast-rgb:255, 255, 255;--gf-color-in-ctrl-primary-darker:#001AB3;--gf-color-in-ctrl-primary-lighter:#527EFF;--gf-color-in-ctrl-light:rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb:17, 35, 55;--gf-color-in-ctrl-light-darker:rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter:#F5F5F5;--gf-color-in-ctrl-dark:#585e6a;--gf-color-in-ctrl-dark-rgb:88, 94, 106;--gf-color-in-ctrl-dark-darker:#112337;--gf-color-in-ctrl-dark-lighter:rgba(17, 35, 55, 0.65);--gf-radius:3px;--gf-font-size-secondary:14px;--gf-font-size-tertiary:13px;--gf-icon-ctrl-number:url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select:url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search:url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' width='640' height='640'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary:var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color:#686e77;--gf-ctrl-size:var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary:#112337;--gf-ctrl-label-color-secondary:#112337;--gf-ctrl-choice-size:var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size:var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size:var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size:var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x:var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size:var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary:#686e77;--gf-ctrl-file-btn-bg-color-hover:#EBEBEB;--gf-field-img-choice-size:var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space:var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size:var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size:var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color:rgba(17, 35, 55, 0.8)}/*]]>*/</style><div id="gform_confirmation_message_67" class="gform_confirmation_message_67 gform_confirmation_message"><strong>Obrigado por entrar em contato com a D4U Immigration!</strong><br> <br> Vamos analisar as suas informações e checar se você possui boas chances de elegibilidade, e te daremos retorno nos próximos dias por e-mail. Fique atento!</div></div></div></div></div></section><footer class="footer"><div class="container footer__main"><div class="row"><div class="col-lg-5 mb-5 mb-lg-0"><div class="row mb-5 mb-lg-0"><div class="col-sm-4"><figure class="footer__main-logo"> <img width="1" height="1" src="https://d4uimmigration.com/wp-content/uploads/2024/12/D4UDegrade.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy"></figure><h5><strong>The Best or Nothing</strong></h5><nav class="nav-footer"><ul id="menu-menu-rodape" class="top-menu"><li id="menu-item-9274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9274"><a href="#">Destinos</a><ul class="sub-menu"> <li id="menu-item-9295" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-9295"><a href="https://d4uimmigration.com/pt-br/pais/estados-unidos">Estados Unidos</a></li> <li id="menu-item-9293" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-9293"><a href="https://d4uimmigration.com/pt-br/pais/europa">Europa</a></li> <li id="menu-item-9294" class="menu-item menu-item-type-post_type menu-item-object-pais menu-item-9294"><a href="https://d4uimmigration.com/pt-br/pais/emirados-arabes-unidos">Emirados Árabes Unidos</a></li></ul> </li> <li id="menu-item-9273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9273"><a href="https://d4uimmigration.com/pt-br/d4u-club">D4U Club</a></li> <li id="menu-item-9272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9272"><a href="https://d4uimmigration.com/pt-br/blog">Blog</a></li> <li id="menu-item-9296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9296"><a href="https://d4uimmigration.com/pt-br/quem-somos/nossa-historia">Nossa história</a></li> <li id="menu-item-6381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6381"><a href="https://d4uimmigration.com/pt-br/fale-conosco">Fale conosco</a></li> <li id="menu-item-4151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4151"><a target="_blank" href="https://wa.me/+19544788593">WhatsApp</a></li></ul></nav></div><div class="col-sm-8 ps-lg-5"><p>Com 99% de pleitos aprovados, A D4U tem todo o suporte que você precisa para morar nos Estados Unidos.</p><p>Eleita o melhor lugar para trabalhar.</p><div class="row"><div class="col text-center"><figure> <img width="212" height="300" src="https://d4uimmigration.com/wp-content/uploads/2024/12/D4U_USA_Group_2022_Certification_Badge-212x300-1.png" class="attachment-full size-full" alt="" style="max-width: 125px" decoding="async" loading="lazy"></figure></div><div class="col text-center"><figure> <img width="212" height="300" src="https://d4uimmigration.com/wp-content/uploads/2024/12/D4U_USA_Group_2023_Certification_Badge-212x300-1.png" class="attachment-full size-full" alt="" style="max-width: 125px" decoding="async" loading="lazy"></figure></div></div></div></div><ul class="social-media"> <li><a href="https://wa.me/+19544788593" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/6-1.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/6-1.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/6-1-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li> <li><a href="https://www.tiktok.com/@d4uimmigration" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/1-2.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/1-2.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/1-2-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li> <li><a href="https://www.facebook.com/d4uimmigration.br" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/2-2.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/2-2.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/2-2-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li> <li><a href="https://www.instagram.com/d4uimmigration.br" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/3.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/3.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/3-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li> <li><a href="https://www.linkedin.com/company/d4u-immigration" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/4.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/4.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/4-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li> <li><a href="https://www.youtube.com/c/D4UUSAGROUP" target="_blank"><img width="200" height="200" src="https://d4uimmigration.com/wp-content/uploads/2024/12/5-1.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://d4uimmigration.com/wp-content/uploads/2024/12/5-1.png 200w, https://d4uimmigration.com/wp-content/uploads/2024/12/5-1-150x150.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px"></a></li></ul></div><div class="col-lg-7 footer__main-address"><div class="row"><div class="col-sm-6 mb-2"><h4>Brasil:</h4><p>+55 0800-591-2029<br> <strong>São Paulo:</strong>&nbsp;+55 (11) 3612-4195<br> <strong>Rio de Janeiro:</strong>&nbsp;+55 (21) 3900-5927<br> <strong>João Pessoa:</strong>&nbsp;+55 (83) 3142-9900<br> <strong>Goiânia:</strong>&nbsp;+55 (62) 3954-2928</p></div><div class="col-sm-6 mb-2"><h4>EUA:</h4><p><strong>Miami:</strong>&nbsp;+1 (786) 578-0575<br> <strong>Boca Raton:</strong>&nbsp;+1 (954) 481-0612<br> <strong>Boca Raton:</strong>&nbsp;+1 (954) 478-8593<br> <strong>Orlando:</strong>&nbsp;+1 (689) 266-0345</p></div><div class="col-sm-6 mb-2"> <span class="badge">Headquarters</span><h4>Emirados Árabes Unidos:</h4><p><strong>Dubai:</strong>&nbsp;+971 (800) 0311190</p></div></div><div class="footer__disclaimer"><p><strong>Disclaimer:</strong><br> <em>D4U is not a law firm and does not practice law in the State Of Florida. This means that some services/protections, like the attorney-client privilege, may be different from those you could get from a law firm. If you have questions, please contact us at&nbsp;<a href="mailto:info@d4uusa.com">info@d4uusa.com</a>.</em></p></div></div></div></div><div class="container footer__copyright"><div class="row justify-content-center"><div class="col py-2"> D4U Immigration © 2025</div><div class="col-auto py-2"> <a href="https://d4uimmigration.com/pt-br/politica-de-privacidade"> Política de Privacidade	</a></div></div></div></footer><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer"> <script src="https://intl-tel-input.com/intl-tel-input/js/intlTelInput.js?1733756310855"></script> <link rel="stylesheet" href="https://d4uimmigration.com/wp-content/themes/d4u/assets/css/intlTelInput.css?v=1051216227"> <script>const inputs=document.querySelectorAll(".mobilePhone input[type=text]");inputs.forEach(input=>{window.intlTelInput(input,{initialCountry:"auto",separateDialCode:true,geoIpLookup:callback=>{fetch("https://ipapi.co/json").then(res=>res.json()).then(data=>callback(data.country_code)).catch(()=>callback("us"));},loadUtils:()=>import("https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/utils.js"),});});const dialCodeElements=document.querySelectorAll('.iti__selected-dial-code');const phoneInputs=document.querySelectorAll('.iti__tel-input');if(dialCodeElements.length>0&&phoneInputs.length>0){dialCodeElements.forEach((dialCodeElement,index)=>{const phoneInput=phoneInputs[index];if(phoneInput){const observer=new MutationObserver(()=>{const dialCode=dialCodeElement.textContent.trim();if(dialCode&&!phoneInput.value.startsWith(dialCode)){phoneInput.value=dialCode+''+phoneInput.value.replace(/^\+\d+\s*/,'');}});observer.observe(dialCodeElement,{childList:true,subtree:true,characterData:true});phoneInput.value=dialCodeElement.textContent.trim()+''+phoneInput.value;}});}</script>  <script>(function(d,s,i,r){if(d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/44736563.js';e.parentNode.insertBefore(n,e);})(document,"script","hs-analytics",300000);</script>  <noscript><img height=1 width=1 style="display: none;" src="https://www.facebook.com/tr?id=1248587029258291&ev=PageView&noscript=1&eid=12485870292582919f10d39a-565a-49f6-8aaf-08cd4e8af459&cd%5Bpage_title%5D=EB-2+NIW&cd%5Bpost_type%5D=visto&cd%5Bpost_id%5D=5750&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=d4uimmigration.com%2Fpt-br%2Fvisto%2Feb-2-niw&cd%5Buser_role%5D=guest" alt></noscript><link rel="stylesheet" id="dashicons-css" href="https://d4uimmigration.com/wp-includes/css/dashicons.min.css?ver=6.7.2" type="text/css" media="all"><link rel="stylesheet" id="gravity_forms_theme_reset-css" href="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.9.4" type="text/css" media="all"><link rel="stylesheet" id="gravity_forms_theme_foundation-css" href="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.9.4" type="text/css" media="all"><link rel="stylesheet" id="gravity_forms_theme_framework-css" href="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=2.9.4" type="text/css" media="all"><link rel="stylesheet" id="gravity_forms_orbital_theme-css" href="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.9.4" type="text/css" media="all"> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/bootstrap.bundle.min.js?ver=6.7.2" id="bootstrap-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/swiper-bundle.min.js?ver=6.7.2" id="swiper-bundle-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/smoothScroll.js?ver=6.7.2" id="smoothscroll-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/wow.js?ver=6.7.2" id="wow-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/jquery.fancybox.js?ver=6.7.2" id="jquery-fancybox-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/vendor/jquery.mask.min.js?ver=6.7.2" id="jquery-mask-js"></script> <script src="https://d4uimmigration.com/wp-content/themes/d4u/assets/js/functions.js?ver=1472677787" id="functions-js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/intlTelInput.min.js" id="intlTelInputJS-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/sha256.js?ver=0.11.0" id="js-sha256-js"></script> <script src="https://d4uimmigration.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/vimeo.min.js" id="vimeo-js"></script> <script src="https://d4uimmigration.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script> <script src="https://d4uimmigration.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script> <script src="https://d4uimmigration.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script> <script id="wp-i18n-js-after">wp.i18n.setLocaleData({'text direction\u0004ltr':['ltr']});</script> <script id="wp-a11y-js-translations">(function(domain,translations){var localeData=translations.locale_data[domain]||translations.locale_data.messages;localeData[""].domain=domain;wp.i18n.setLocaleData(localeData,domain);})("default",{"translation-revision-date":"2025-02-25 12:07:35+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Notifications":["Notifica\u00e7\u00f5es"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}});</script> <script src="https://d4uimmigration.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.4" id="gform_json-js"></script> <script id="gform_gravityforms-js-extra">var gform_i18n={"datepicker":{"days":{"monday":"Seg","tuesday":"Ter","wednesday":"Qua","thursday":"Qui","friday":"Sex","saturday":"S\u00e1b","sunday":"Dom"},"months":{"january":"janeiro","february":"fevereiro","march":"mar\u00e7o","april":"abril","may":"Maio","june":"junho","july":"julho","august":"agosto","september":"setembro","october":"outubro","november":"novembro","december":"dezembro"},"firstDay":1,"iconText":"Selecione uma data"}};var gf_legacy_multi=[];var gform_gravityforms={"strings":{"invalid_file_extension":"Este tipo de arquivo n\u00e3o \u00e9 permitido. Deve ser um dos seguintes:","delete_file":"Excluir este arquivo","in_progress":"em progresso","file_exceeds_limit":"O arquivo excede o limite de tamanho.","illegal_extension":"Este tipo de arquivo n\u00e3o \u00e9 permitido.","max_reached":"O n\u00famero m\u00e1ximo arquivos permitidos foi atingido.","unknown_error":"Ocorreu um erro ao salvar o arquivo no servidor","currently_uploading":"Aguarde o envio ser completado","cancel":"Cancelar","cancel_upload":"Cancelar este envio","cancelled":"Cancelado"},"vars":{"images_url":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms\/images"}};var gf_legacy={"is_legacy":""};var gf_global={"gf_currency_config":{"name":"D\u00f3lar americano","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"77f19b42e0dae1e0e402241c0051755e","strings":{"newRowAdded":"Nova linha adicionada.","rowRemoved":"Linha removida","formSaved":"O formul\u00e1rio foi salvo. O conte\u00fado cont\u00e9m o link para retornar e preencher o formul\u00e1rio."}};var gf_legacy={"is_legacy":""};var gf_global={"gf_currency_config":{"name":"D\u00f3lar americano","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"77f19b42e0dae1e0e402241c0051755e","strings":{"newRowAdded":"Nova linha adicionada.","rowRemoved":"Linha removida","formSaved":"O formul\u00e1rio foi salvo. O conte\u00fado cont\u00e9m o link para retornar e preencher o formul\u00e1rio."}};</script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.4" id="gform_gravityforms-js"></script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.4" id="gform_placeholder-js"></script> <script id="gform_duplicate_submissions-js-extra">var gf_duplicate_submissions={"is_gf_submission":"1","safari_redirect_param":"gf_protect_submission"};var gf_duplicate_submissions={"is_gf_submission":"1","safari_redirect_param":"gf_protect_submission"};</script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/js/duplicate-submissions.min.js?ver=1" id="gform_duplicate_submissions-js"></script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=639b4ac21c17c9dc304b05db4a3d3293" id="gform_gravityforms_theme_vendors-js"></script> <script id="gform_gravityforms_theme-js-extra">var gform_theme_config={"common":{"form":{"honeypot":{"version_hash":"77f19b42e0dae1e0e402241c0051755e"},"ajax":{"ajaxurl":"https:\/\/d4uimmigration.com\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"b81995c66d","i18n":{"step_announcement":"Etapa %1$s de %2$s, %3$s","unknown_error":"Houve um erro desconhecido ao processar sua solicita\u00e7\u00e3o. Tente novamente."}}}},"hmr_dev":"","public_path":"https:\/\/d4uimmigration.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"5b26c2cece"};</script> <script defer="defer" src="https://d4uimmigration.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=dc91b64a15c979eb9acace3fe2754b5f" id="gform_gravityforms_theme-js"></script> <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;91e2ffce7daa2f87&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.1.0&quot;,&quot;token&quot;:&quot;35c5e1445a2842b6947f4e2b918c498d&quot;}" crossorigin="anonymous"></script>
+<script type="text/javascript" id="" charset="">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g+"?ref\x3dgtm2";d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","pz15o83x1p");</script><script type="text/javascript" id="" charset="">var g_EC={email:'[type\x3d"email"]',phone_number:'[type\x3d"tel"]'},g_countrycode="+55",g_country="Brazil";window.g_setupEC=Object.create(null);window.g_ECObj=Object.create(null);document.addEventListener("input",g_setup_ECObj);function g_setup_ECObj(a){a=a.target;for(i in g_EC)a.matches(g_EC[i])&&(g_setupEC["g_"+i]=a.value);g_save_toECObj()}
+function g_save_toECObj(){for(i in g_EC)g_setupEC["g_"+i]&&(i=="email"&&g_validateEmail(g_setupEC["g_"+i])&&(window.g_ECObj[i]=g_setupEC["g_"+i]),i=="phone_number"&&window.g_ECObj.email&&(window.g_ECObj[i]=g_setupEC["g_"+i],window.g_ECObj[i]=g_countrycode+g_ECObj[i].replace(/\D/g,"")))}function g_validateEmail(a){return/\S+@\S+\.\S+/.test(a)}function g_validateString(a){return a.normalize("NFD").replace(/[\u0300-\u036f]/g,"")}g_save_toECObj();</script><script type="text/javascript" id="" charset="">window.location.href.includes("/pt-br")&&document.querySelectorAll("form.d4u_siteForm_lead").forEach(function(a){a.addEventListener("submit",function(){console.log("Formul\u00e1rio BR Enviado");dataLayer.push({event:"submit_br"})})});</script><iframe height="0" width="0" style="display: none; visibility: hidden;" data-gtm-yt-inspected-10="true"></iframe><div id="divtoincludechat">
+<style id="sstt">
+#bot_icon .chat_pointer {
+  background-color: #173d73;
+}
+#bot_icon .bot_icon_pointer {
+  border-color: #173d73;
+}
+</style>
+<script>inbot.session_timeout_minutes = 30;</script>
+
+<script>
+
+// Permite usar arquivos estaticos no S3 e distribuir carga entre servidores:
+var bot_can_use_cdn = '1'; // '0' or '1' or 'load_balance'
+
+ inbot.bot_use_gpt = 'idk';
+
+
+//console.error('Ok.');
+
+ bot_server_base_url = 'https://in.bot';
+ bot_script_base = 'https://in.bot/'; 
+
+//var server = '0.0.0.0:8099'; // $host:$port
+var server = '';
+if (typeof bot_id == 'undefined' || bot_id=='0') {
+  console.error('WARNING: no bot_id?');
+  bot_id = ''; // so pra nao dar pau depois qdo procura por bot_id
+// TODO: HIDE BOT se nao tiver bot id
+//  bot_id = 1;
+} else if (bot_id==-1) { // nao mostra icone minimizado de bot nenhum (ex: na pg de login), oculta bot
+  bot_icon_visible=0;
+}
+
+if (typeof bot_name == 'undefined') {
+// TODO: devia pegar do admin conf?
+//  bot_name = 'Bot'; // Bot:
+  bot_name = '';
+}
+
+// URL da imagem do bot dentro do chat (substitui o nome do bot)
+if (typeof bot_icon_url == 'undefined') {
+  bot_icon_url = '';
+}
+
+bot_icon = 'https://files.in.bot/upload/810/oxAtivo-37.png';
+bot_icon_minimized = 'https://files.in.bot/upload/810/oxAtivo-37.png';
+bot_token = '1vbvtaltya';
+
+
+// Distribui a carga entre varios servidores: //
+
+// TODO: ja pode apagar essa linha pois agora todos usam inbot.bot_server_base_url_api e nao variavel global:
+var bot_server_base_url_api   = bot_server_base_url; // main server, vai usar no servidor principal (provavelmente https://in.bot/)
+
+// usado por exemplo em action log_stt_or_tts no trecho: var url = inbot.bot_server_base_url + '/mod_perl/api.pl';
+inbot.bot_server_base_url_api = bot_server_base_url; // main server, vai usar no servidor principal (provavelmente https://in.bot/)
+
+inbot.bot_server_base_url_list = [bot_server_base_url]; // default
+
+
+if (bot_can_use_cdn == '1') {
+
+  // usado pra fazer reload:
+  inbot.bot_server_base_url_list = [bot_server_base_url, 'https://databases.in.bot', 'https://bi.in.bot', 'https://inbot16.in.bot', 'https://databases.in.bot'];
+
+  // OBS: se atualizar lista de servidores, precisa atualizar em new_left_menu.thtml
+
+  if (inbot.ab_test == 191) { // 91 to force my browser (Rods local dev)
+    bot_server_base_url = inbot.bot_server_base_url_list[1]; // databases.in.bot
+  } else if (inbot.ab_test <= 17) { // 1 a 17 (recebe 17% da carga), pois bi tem pouca memoria 8gb //
+    bot_server_base_url = inbot.bot_server_base_url_list[2]; // https://bi.in.bot/
+  } else if (inbot.ab_test <= 54) { // 17 a 54 (recebe 36% da carga) //
+    bot_server_base_url = inbot.bot_server_base_url_list[3]; // 'https://inbot16.in.bot';
+// zxc1 zxczxc remover por causa dos malditos acentos  inbot16:
+    bot_server_base_url = inbot.bot_server_base_url_list[4]; // 'https://databases.in.bot';
+
+  } else if (inbot.ab_test <= 91) { // 54 a 91 (recebe 36% da carga) //
+    bot_server_base_url = inbot.bot_server_base_url_list[4]; // 'https://databases.in.bot';
+  } else {
+    // sobra 8% (entre 92 e 100) da carga no in.bot (default) //
+    // mantem o bot_server_base_url inbot.bot_server_base_url_list[0] definido mais acima (servidor onde roda esse php)
+  }
+
+  if (inbot.debug) {
+    console.log("bot-loader: load balance bot_server_base_url="+bot_server_base_url);
+  }
+
+} // bot_can_use_cdn
+
+if (bot_can_use_cdn == '0' && inbot.debug) {
+  console.log("bot-loader: dedicated server, no cdn. bot_server_base_url="+bot_server_base_url);
+}
+
+if (bot_can_use_cdn == 'load_balance' && /http/.test(inbot.bot_load_balance_server_base_url) ) {
+
+  // usado pra fazer reload:
+  inbot.bot_server_base_url_list = [bot_server_base_url, inbot.bot_load_balance_server_base_url];
+
+  if (inbot.debug) {
+    console.log(`bot-loader: dedicated server+load_balance. inbot.bot_load_balance_percent=${inbot.bot_load_balance_percent}, inbot.inbot.bot_load_balance_server_base_url=${inbot.bot_load_balance_server_base_url}.`);
+  }
+
+  if (inbot.bot_load_balance_percent>0) {
+    if (inbot.ab_test < inbot.bot_load_balance_percent) {
+      bot_server_base_url = inbot.bot_load_balance_server_base_url;
+      if (inbot.debug) {
+        console.log("inbot: will use bot_server_base_url="+bot_server_base_url);
+      }
+    } else {
+      if (inbot.debug) {
+        console.log("inbot: will NOT use bot_server_base_url="+bot_server_base_url);
+      }
+    }
+  }
+}
+
+
+//console.log(" in.bot ");
+</script>
+
+
+<span class="bot_layout_type bot_layout2"><!-- inbot.html -->
+<!-- IE 11 em intranet em modo de compatibilidade, isso resolve: -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge;">
+
+<!--
+Chamado via include pelo bot-loader.php
+ cada cliente tem o seu jquery
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+-->
+
+<!-- <script src="//in.bot/js/swipe.js"></script> -->
+
+<script>
+
+var rand_version = '';
+
+if (typeof bot_can_use_cdn == 'undefined') { // deve ser local (ex: admin)
+  console.error("ERRO bot: pq bot_can_use_cdn=undefined? (ver bot-loader.php)");
+  bot_can_use_cdn = 0;
+}
+
+if (typeof bot_script_base == 'undefined' || !bot_script_base) {
+  bot_script_base = 'https://in.bot/';
+}
+
+// TODO: Hardcoded por instalacao?
+//if (window.location.hostname.indexOf('ask.do')>-1) {
+//  bot_script_base = 'https://ask.do/';
+//}
+
+if (typeof inbot_is_devel_source != 'undefined' && inbot_is_devel_source == 1) {
+  rand_version = parseInt ((new Date().getTime()) / 1000);
+  inbot.is_devel_source=1;
+}
+
+if (typeof inbot_is_local != 'undefined' && inbot_is_local == 1) {
+  bot_script_base     = 'https://local.in.bot/';
+// rods local comentei em 2022-11-14
+//  bot_server_base_url = 'https://local.in.bot'; // nao usa distribuicao de carga do bot-loader.php
+  console.log("inbot.html: inbot_is_local");
+}
+
+// if (bot_id=272 && bot_server_type == 'production') { url_bot_gateway = 'https;//bi.in.bot/api/bot_gateway'; }
+
+// TODO: HARDCODED.
+//if (bot_id==8 && bot_name == 'Porto Seguro Viagem') {
+//  url_bot_gateway = 'https://bi.in.bot/api/bot_gateway';
+//} else if (bot_id==272 && /net.com.br|claro.com.br/.test(window.location.href)) {
+//  url_bot_gateway = 'https://inbot16.in.bot/api/bot_gateway';
+//// load balance:. Comentei pq agora usa inauth.ab_test (é número entre 1 e 100)
+//// var bot_load_balance = ~~(Math.random()*2); // 0 or 1
+////  url_bot_gateway = 'https://bi.in.bot/api/bot_gateway';
+//}
+
+
+(function() {
+
+    var first_script = document.getElementsByTagName('script')[0]; // ex: <script src="/js/jquery.min.js"></sc-ript> (obs: troquei /script)
+
+    if (1) {
+      var css_link  = document.createElement('link'); css_link.type = 'text/css'; css_link.rel = 'stylesheet';
+      if (bot_can_use_cdn==1) {
+// Comentei CDN original para usar classe proprietaria ".insite .fa" para nao dar conflito
+//      css_link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
+//        css_link.href = 'https://in.bot/css/font-awesome-insite.css';
+        css_link.href = 'https://bot-server.s3.amazonaws.com/css/font-awesome-insite.min.gz.css';
+      } else {
+
+        css_link.href = bot_script_base + 'css/font-awesome/css/font-awesome.min.css?x';
+      }
+
+      first_script.parentNode.insertBefore(css_link, first_script);
+    }
+
+    if (1) {
+      var css_link  = document.createElement('link'); css_link.type = 'text/css'; css_link.rel = 'stylesheet';
+      if (bot_can_use_cdn==1 && !inbot.is_devel_source) {
+        css_link.href = 'https://bot-server.s3.amazonaws.com/in-framework/main-v2.gz.css?v4f';
+      } else {
+        css_link.href = bot_script_base + 'in-framework/main-v2.css?v4d';
+      }
+      first_script.parentNode.insertBefore(css_link, first_script);
+    }
+
+    if (inbot.file_id) {
+      // passa o controle pro pdf
+      console.log("LOADING GPT");
+      jQuery.getScript( "https://in.bot/js/gpt-pdf.js", function( data, textStatus, jqxhr ) {
+      });
+    }
+
+// TODO: so deveria carregar socket.io quando for usar o inchat
+    // precisa carregar o socket.io antes de carregar o inbot.js pois se acessar url "..dominio../#inchat.start" o objeto "io" pode nao existir
+
+    let can_use_socket_io = true;
+
+    if ( /oec.in.bot/.test(bot_server_base_url) ) {
+      can_use_socket_io = false;
+    }
+
+    if (can_use_socket_io == true && typeof io != 'function') {
+
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+// TODO: Carregar socket.io.js somente se usuario for usar mesmo (ex: InChat)
+
+      if (bot_can_use_cdn==1) {
+
+// TODO: colocar em producao
+//        if (bot_server_type == 'production' || bot_server_type == 'staging' || bot_server_type=='dev') {
+        if (1 || bot_server_type == 'production') {
+          po.src = 'https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js';
+        } else {
+// src="https://cdn.socket.io/4.7.5/socket.io.min.js" integrity="sha384-2huaZvOR9iDzHqslqwpR87isEmrfxqyWOF7hr7BY6KG0+hVKLoEXMPUJw3ynWuhO" crossorigin="anonymous"
+
+//          po.src = 'https://cdn.socket.io/4.7.2/socket.io.min.js';
+          po.src = 'https://cdn.socket.io/4.7.5/socket.io.min.js';
+//          if (inbot.debug) {
+            console.log(`NEW inbot.html: socket.io 4.7.5 CDN bot_server_type=${bot_server_type}`);
+//          }
+        }
+
+      } else { // nao usa CDN
+        // versao antiga:
+//        po.src = bot_script_base + 'js/socket.io/socket.io.js';
+        po.src = bot_script_base + 'js/socket.io/v4/socket.io.min.js';
+        if (inbot.debug) {
+          console.log(`inbot.html: socket.io local, sem CDN, bot_server_type=${bot_server_type}, po.src=${po.src}`);
+        }
+
+      }
+
+if (bot_id==1 || bot_id==2) {
+// now::::: socket version
+//  <script src="https://cdn.socket.io/4.6.0/socket.io.min.js" integrity="sha384-c79GN5VsunZvi+Q/WObgk2in0CbZsHnjEqvFxC5DxHn9lTfNce2WW6h2pH6u/kF+" crossorigin="anonymous">
+  po.crossorigin = 'anonymous';
+// now:::: talvez possa habilitar depois que migrar usuarios pra socket.io 4, se funcionar re-habilitar cors no servidor (ver "re-habilitar")
+//  po.integrity = 'sha384-c79GN5VsunZvi+Q/WObgk2in0CbZsHnjEqvFxC5DxHn9lTfNce2WW6h2pH6u/kF+';
+//  po.src = "https://cdn.socket.io/4.6.0/socket.io.min.js";
+//  po.src = "https://cdn.socket.io/4.7.2/socket.io.min.js";
+//  po.src = 'https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.0/socket.io.min.js';
+}
+
+
+      first_script.parentNode.insertBefore(po, first_script);
+    }
+
+
+
+    if (1) {
+
+      var css_link  = document.createElement('link'); css_link.type = 'text/css'; css_link.rel = 'stylesheet';
+
+      if (bot_can_use_cdn==1) {
+
+        if (inbot.bot_layout == '202007') { // pega versao fixa dendron neon
+          css_link.href = 'https://bot-server.s3.amazonaws.com/js/inbot-fixed-202007.css?v1';
+        } else {
+
+          if (inbot.is_devel_source == 1 && typeof inbot_css != 'undefined') {
+            css_link.href = bot_script_base + 'js/'+inbot_css+'?v1n'; // js/inbot.css
+          } else {
+            css_link.href = 'https://bot-server.s3.amazonaws.com/js/inbot.gz.css?V2n'; // eh esse CSS //
+          }
+        }
+
+      } else { // can't use cdn or inbot_is_local
+        if (typeof inbot_css == 'undefined' || !inbot_css) {
+          inbot_css = 'inbot.css';
+        }
+        css_link.href = bot_script_base + 'js/'+inbot_css+'?v8ac'; // js/inbot.css
+      }
+
+      first_script.parentNode.insertBefore(css_link, first_script);
+
+      if (typeof inbot != 'object' || !inbot.loaded) { // So carrega inbot-framework se ainda nao carregou (evita carregar novamente o js, duplicado)
+
+// TODO: verificar sem oec. esta carregando esses 2 scripts em oec. ou em in.bot, pois no local-... esta carregando de in.bot (devia ser em local)
+// TODO: ...verificar bot_script_base vs bot_server_base_url
+//.
+        if (inbot.is_devel_source == 1) {
+
+          // carrega separadamente 2 scripts (devel):
+
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = bot_script_base + in_framework_main_js + '?v9c'+rand_version;
+          first_script.parentNode.insertBefore(po, first_script);
+
+          if (inbot.debug) {
+            console.log("inbot.html loading in-framework/scripts.js script: "+po.src); // main.js
+          }
+
+          po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = bot_script_base + inbot_js_source+'?v9c'+rand_version;
+          po.id = "inbot_main_script";
+          first_script.parentNode.insertBefore(po, first_script);
+
+          if (inbot.debug) {
+            console.log("inbot.html loading src script: "+po.src); // (inbot_js_source).js
+          }
+
+        } else { // not devel
+
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+          if (bot_can_use_cdn==1) {
+
+            if (inbot.bot_layout == '202007') { // pega versao fixa dendron neon
+              po.src = 'https://bot-server.s3.amazonaws.com/js/inbot-framework-fixed-202007.js?v1';
+            } else {
+              po.src = 'https://bot-server.s3.amazonaws.com/js/inbot-framework.gz.js?V7u'; // EH ESSE js //
+            }
+
+          } else { // not CDN
+            if (typeof inbot_js == 'undefined' || !inbot_js) {
+              inbot_js = 'js/inbot-framework.js';
+            }
+            po.src = bot_script_base + inbot_js+'?v9h'+rand_version; // js/inbot-framework.js
+          }
+
+          if (inbot.debug) {
+            console.log("inbot.html loading inbot-framework.js: "+po.src); // https://bot-server.s3.amazonaws.com....
+          }
+
+          po.id = "inbot_main_script";
+          first_script.parentNode.insertBefore(po, first_script);
+        }
+
+
+      }
+    }
+
+// tirei jquery-ui pq eh ruim carregar isso
+//    if (bot_id>90 && bot_id < 250) { // para jquery.starz.js funcionar:. Deixei pra bots antigos pq nao sei se alguem usa
+//      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+//      if (bot_can_use_cdn==1) {
+//        po.src = 'https://bot-server.s3.amazonaws.com/js/jquery-ui/jquery-ui.js';
+//      } else {
+//        po.src = bot_script_base + 'js/jquery-ui/jquery-ui.js';
+//      }
+//      first_script.parentNode.insertBefore(po, first_script);
+//    }
+
+})();
+
+</script>
+
+
+
+<!-- TODO: se precisar starz funcionar em servidor externo, precisa usar loader de js como os if (1) acima -->
+
+<!--
+<script src="//in.bot/js/rating/jquery.cookie.min.js"></script>
+<script src="//in.bot/js/rating/jquery.starz.js"></script>
+<link rel="stylesheet" href="//in.bot/js/rating/jquery.starz-16px.css">
+-->
+
+<span id="bot_layout_css"></span>
+<span id="bot_layout_js"></span>
+
+<style>
+.chat_pointer {
+  font-family: Segoe UI, arial;
+  position: relative;
+  background-color: #2e66b7;
+  border-color: #2e66b7;
+  max-width: calc(100%-60px);
+  text-align: left;
+  padding: 13px 12px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  border-radius: 4px; margin-right: 10px;
+  max-width: 100%;
+  display: inline-block;
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.88rem;
+  margin-right: 20px;
+  white-space: no-wrap;
+}
+
+.bot_icon_pointer_right:after {
+  content: "";
+  display: block;
+  position: absolute;
+  border: 4px solid rgba(0,0,0,0);
+  top: 16px;
+  right: -14px;
+  border-width: 7px;
+  border-left-color: inherit;
+}
+
+.bot_icon_pointer_left:before {
+  content: "";
+  display: block;
+  position: absolute;
+  border: 4px solid rgba(0,0,0,0);
+  top: 16px;
+  left: -13px;
+  border-width: 7px;
+  border-right-color: inherit; /* ponta aponta para esquerda */
+}
+
+
+</style>
+
+
+
+<style>
+
+#bot_icon div {
+ box-sizing: content-box;
+}
+#bot_icon_pointer_td {
+  vertical-align: middle;
+}
+
+.bot_icon_pulse {
+ animation-name: bot_icon_pulse_anim;
+ animation-duration: 0.45s;
+ animation-time-function: ease-out;
+ animation-delay: 0s;
+ animation-direction: alternate;
+ animation-iteration-count: infinite;
+ animation-fill-mode: none;
+ animation-play-state: running;
+}
+
+@keyframes bot_icon_pulse_anim {
+ 0% {
+  transform: scale(0.9);
+ }
+}
+
+.bot_icon_dots {
+ animation-name: bot_icon_dots_anim;
+ animation-duration: .8s;
+ animation-time-function: ease-out;
+ animation-delay: 0s;
+ animation-direction: normal;
+ animation-iteration-count: infinite;
+ animation-fill-mode: none;
+ animation-play-state: running;
+}
+
+.bot_icon_dots2 {
+ animation-name: bot_icon_dots_anim;
+ animation-duration: .8s;
+ animation-time-function: ease-out;
+ animation-delay: .3s;
+ animation-direction: normal;
+ animation-iteration-count: infinite;
+ animation-fill-mode: none;
+ animation-play-state: running;
+}
+
+.bot_icon_dots3 {
+ animation-name: bot_icon_dots_anim;
+ animation-duration: .8s;
+ animation-time-function: ease-out;
+ animation-delay: .5s;
+ animation-direction: normal;
+ animation-iteration-count: infinite;
+ animation-fill-mode: none;
+ animation-play-state: running;
+}
+
+@keyframes bot_icon_dots_anim {
+ 50% {
+   opacity: 0;
+ }
+}
+
+.bot_3dots {
+ animation-name: bot_3dots_anim;
+ animation-duration: 4s;
+ animation-time-function: ease-out;
+ animation-delay: 0s;
+ animation-direction: normal;
+ animation-iteration-count: infinite;
+ animation-fill-mode: none;
+ animation-play-state: running;
+
+}
+
+@keyframes bot_3dots_anim {
+ 60% {
+   opacity: 0;
+ }
+ 80% {
+   opacity: 0;
+ }
+}
+
+</style>
+
+
+
+
+
+
+<table border="0" onclick="inbot.open_chat({'caller': 'bot_icon click'})" id="bot_icon">
+<tbody><tr style="background-color: transparent; border: 0;">
+<td style="white-space: nowrap;" id="bot_icon_pointer_td">
+<!-- TODO: nao usar mais chat_pointer -->
+<div class="chat_pointer bot_icon_pointer bot_icon_pointer_right" style="display:none;" id="bot_icon_pointer">
+Assistente Virtual
+</div>
+</td>
+
+<td id="bot_icon_right"><img src="https://files.in.bot/upload/810/oxAtivo-37.png" id="bot_icon_img" class="bot_icon_img" alt="Chatbot"><span id="bot_icon_mouseover" style="display:none" onmouseout="jQuery('#bot_icon_img').show();jQuery('#bot_icon_mouseover').hide();"></span></td></tr>
+</tbody></table>
+
+<!--
+  handle: "#drag_me"
+-->
+
+<!-- TODO: acho que devia ser class=insite no divtoincludechat, senao o icone minimizado fica sem class=insite -->
+<div id="box_chat" class="insite bot_box_chat bot_widget_not_maximized" style="display: none;">
+
+<!-- TODO: move -->
+<!-- TODO: comentei pois estava sobrepondo a primeira linha e nao dava pra clicar no icone de voz. Ex: carrodofuturo
+<div style="
+ position: absolute;
+ width: 100%;
+ left: 1px;
+ top: 1px;
+ xcursor: move;
+"
+id="xdrag_me"
+>&nbsp;</div>
+-->
+
+<!-- [[menu_atendimento]] -->
+<div id="menu_falar_com_atendente" class="menu_falar_com_atendente" style="
+ display: none;
+ position: absolute;
+ cursor: pointer;
+ padding: 5px;
+ padding-right: 40px;
+ padding-bottom: 20px;
+" title="Falar com atendimento" onclick="
+ if (jQuery(&quot;.header_falar_com_atendimento&quot;).css(&quot;display&quot;) == &quot;none&quot; ) { // estava fechado (entao abre)
+   jQuery(&quot;.header_menu_hamburger_icon&quot;).removeClass(&quot;fa-bars&quot;);
+   jQuery(&quot;.header_menu_hamburger_icon&quot;).addClass(&quot;fa-close&quot;);
+ } else { // estava aberto (entao fecha)
+   fecha_menu_hamburger_header();
+ }
+ jQuery(&quot;.header_falar_com_atendimento&quot;).toggle(&quot;fast&quot;);
+ jQuery(this).prop(&quot;title&quot;, &quot;&quot;)"><i id="header_menu_hamburger_icon" class="fa fa-fw fa-bars bot_layout_icon_persistent_menu bot_layout_icon_menu_atendimento header_menu_hamburger_icon" style="xcolor: #ff0000; xfont-size: 1.3em;"></i></div>
+<div id="header_falar_com_atendimento" class="header_falar_com_atendimento" onclick="inbot.user_to_bot(&quot;Falar com atendimento&quot;, {&quot;payload&quot;: &quot;Falar com atendimento&quot;}); jQuery(this).hide(); fecha_menu_hamburger_header();" style="display: none; user-select: none; xcolor: rgb(255, 0, 0); background-color: white; border: 1px solid rgb(176, 176, 176); border-radius: 12px; margin: 28px; padding: 7px; position: fixed;">Falar com atendente</div>
+
+
+<div id="bot_widget_head" class="bot_widget_head">
+
+
+<div id="bot_header_new_widget" class="bot_header_new_widget">
+<table class="bot_header_table">
+<tbody>
+<tr>
+ <td style="width: 15px;" id="bot_header_left_td"><img src="" class="img_bot_layout_header_avatar_url" id="img_bot_layout_header_avatar_url"></td>
+ <td><div class="bot_layout_header_title" id="bot_layout_header_title" name="bot_layout_header_title"><!-- ex: Assistente Virtual --></div></td>
+ <td style="text-align: right; vertical-align: middle;">
+<div style="cursor: pointer;" class="bot_layout_icon_persistent_menu" onclick="show_or_hide_persistent_menu();" id="div_persistent_menu_layout2">
+<i class="fa fa-fw fa-ellipsis-v bot_layout_icon_persistent_menu" style="font-size: 1.2em;"></i>
+</div>
+ </td>
+</tr>
+</tbody></table>
+
+</div> <!-- /bot_header_new_widget -->
+
+
+
+
+
+<!-- TODO: Apagar o div box_chat_header e deixar apenas o &nbsp;, pois o nome bot_widget_head eh melhor -->
+<div id="box_chat_header">&nbsp;</div>
+</div> <!-- /bot_widget_head -->
+
+<!--
+TODO: implementar acessibilidade tipo FB, exemplo quando persistent menu esta aberto:
+<a class="accessible_elem layer_close_elem" href="#" role="button" tabindex="0">Fechar pop-up e voltar</a>
+-->
+
+<!-- choose language -->
+<div id="bot_layout_choose_language" style="
+ display: none;
+ background-color: #f0f0f0;
+ border-bottom: 1px solid #c0c0c0;
+ padding: 6px;
+ padding-top: 12px;
+ font-size: 0.9em;
+ user-select: none;7
+">
+<div style="float: right; vertical-align: top;"><i class="fa fa-close" style="color: #808080; font-size: 0.7em;" onclick="jQuery('#bot_layout_choose_language').hide(); set_widget_size();" title="Fechar"></i></div>
+IDIOMA:
+
+&nbsp;
+
+<div class="btn btn-mini" style="margin-bottom: 4px;" onclick="
+ inbot.bot_translate = '';
+ inbot.set('bot_translate', '');
+ jQuery('#bot_layout_choose_language').find('div').removeClass('btn-selected');
+ jQuery(this).addClass('btn-selected');
+ inbot.bot_to_user('Idioma selecionado: português');
+ inbot.set_widget_language('pt');
+ inbot.user_to_bot({'payload': 'FRASE DE ABERTURA', 'display': 'none'});
+">Português</div>
+&nbsp; &nbsp;
+<div class="btn btn-mini" style="margin-bottom: 4px;" onclick="
+ jQuery('#bot_layout_choose_language').find('div').removeClass('btn-selected');
+ inbot.bot_translate = 'en2pt';
+ inbot.set('bot_translate', 'en2pt'); // gpt usa isso
+ jQuery(this).addClass('btn-selected');
+ inbot.bot_to_user('Selected language: English');
+ inbot.set_widget_language('en');
+ inbot.user_to_bot({'payload': 'FRASE DE ABERTURA', 'display': 'none'});
+">English</div>
+&nbsp; &nbsp;
+<div class="btn btn-mini" style="margin-bottom: 4px;" onclick="
+ jQuery('#bot_layout_choose_language').find('div').removeClass('btn-selected');
+ inbot.bot_translate = 'es2pt';
+ inbot.set('bot_translate', 'es2pt');
+ jQuery(this).addClass('btn-selected');
+ inbot.bot_to_user('Idioma seleccionado: español');
+ inbot.set_widget_language('es');
+ inbot.user_to_bot({'payload': 'FRASE DE ABERTURA', 'display': 'none'});
+">Español</div>
+</div>
+<!-- /bot_layout_choose_language -->
+
+
+<!-- accessibility -->
+<div id="bot_layout_accessibility" style="
+ display: none;
+ background-color: white;
+ border-bottom: 1px solid #c0c0c0;
+ padding: 6px;
+ font-size: 0.9em;
+ user-select: none;
+">
+<div style="float: right; vertical-align: top;"><i class="fa fa-close" style="color: #808080; font-size: 0.7em;" onclick="jQuery('#bot_layout_accessibility').hide(); set_widget_size();" title="fechar"></i></div>
+ACESSIBILIDADE:
+&nbsp;
+<span onclick="
+jQuery('#chatarea').css('font-size', '19px');
+jQuery('#chatarea table').css('font-size', '19px');
+" style="cursor: pointer;" title="Aumentar o tamanho da fonte">
+<b style="font-size: 1em;">A+</b></span>
+|
+<span onclick="
+jQuery('#chatarea').css('font-size', '16px');
+jQuery('#chatarea table').css('font-size', '16px');
+" style="cursor: pointer;" title="Diminuir o tamanho da fonte">
+<b><span style="font-size: 0.8em;">A</span>-</b></span>
+&nbsp; 
+CONTRASTE:
+
+<div style="display: inline-block; padding-right: 5px; padding-left: 5px; cursor: pointer;" onclick="jQuery('#chatarea').removeClass('accessible_white').addClass('accessible_black');">
+<div class="btn-hover" style="width: 12px; height: 12px; border-radius: 6px; background-color: black; display: inline-block;"></div>
+</div>
+
+<div style="display: inline-block; padding-right: 5px; padding-left: 5px; cursor: pointer;" onclick="jQuery('#chatarea').removeClass('accessible_black').addClass('accessible_white');">
+<div class="btn-hover" style="width: 10px; height: 10px; border-radius: 5px; background-color: white; border: 1px solid #808080; display: inline-block;"></div>
+</div>
+
+<div style="display: inline-block; padding-right: 5px; padding-left: 5px; cursor: pointer;" onclick="jQuery('#chatarea').removeClass('accessible_black').removeClass('accessible_white');">
+<div class="btn-hover" style="width: 10px; height: 10px; border-radius: 5px; background-color: #80c0ff; border: 1px solid #707070; display: inline-block;"></div>
+</div>
+
+</div>
+<!-- /accessibility -->
+
+
+<div style="
+ position: absolute;
+ display: block;
+ width: 100%;
+ text-align: center;
+ top: -3px;
+" id="bot_close_chevron_down">
+<img data-src="https://bot-server.s3.amazonaws.com/images/widget/minimize-button.png" data-src_no_cdn="https://in.bot/images/widget/minimize-button.png" style="width: 90px; cursor: pointer; display: none;" id="bot_close_chevron_down_img" alt="Fechar" onclick="
+  jQuery('#box_chat').css('filter', 'grayscale(95%)');
+
+  // gambs para animacao ir pra direita inferior ao minimizar o widget. TODO: testar no ios se ao reabrir o widget, ele cotinua 100% com margens corretas
+  jQuery('.bot_box_chat.bot_widget_maximized').css('left', 'auto');
+
+  jQuery('#box_chat').hide( inbot.is_widget_full? 'fast':'slow',
+    function() {
+     setTimeout( 'close_chat(); jQuery(\'#box_chat\').css(\'filter\', \'grayscale(0%)\');', 200);
+    }
+  );
+ ">
+</div>
+
+
+<button id="bot_close_x" class="bot_close_x" onclick="close_chat()" title="Fechar" aria-label="Fechar"><i class="fa fa-fw fa-chevron-down"></i></button>
+
+<!-- Usado para colocar menus ou botões fixos no topo da conversa, entre o header e a conversa -->
+<div id="chatarea_before"></div>
+
+<!-- novo layout2 tem margin-right para scroll ficar com borda a direita -->
+<div id="chatarea_container">
+<!-- devia ser bot_widget_body ao inves de chatarea -->
+<div id="chatarea" aria-live="polite">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAAICAYAAAB01c+QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6N0I2MUFGRTIzQjc1MTFFODkyMkQ4MEQ4Mjg5RTRCNUUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6N0I2MUFGRTMzQjc1MTFFODkyMkQ4MEQ4Mjg5RTRCNUUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3QjYxQUZFMDNCNzUxMUU4OTIyRDgwRDgyODlFNEI1RSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3QjYxQUZFMTNCNzUxMUU4OTIyRDgwRDgyODlFNEI1RSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pqsdy5EAAABWSURBVHja7NWxDYAwEATBt4TIHBIT0wv9N4Kc4wr+GpiRroFNblTVWwBA69j7ZACAfJhLBgDojb1HBgDIh3nLAAD5MC8ZACAf5pQBAPJhnjIAQO8XYABi1gKzhwfYVQAAAABJRU5ErkJggg==" id="bot_top_shadow" alt="" style="
+ display: none;
+ width: calc(100% - 17px); 
+ height: 10px;
+ margin-left: -12px;
+ position: absolute;
+">
+<div id="chatarea_space_at_top">&nbsp;</div>
+</div> <!-- /chatarea -->
+
+
+<div class="speech_balloon_bot client_in_queue" style="margin-top: 5px; display: none; margin-left: 14px; margin-bottom: 9px;">
+<!-- TODO: apagar queue_wait_operator_str e manter apenas inchat_queue_wait_message -->
+ <span class="queue_wait_operator_str inchat_queue_wait_message"></span>
+ <div class="client_queue_position xspeech_balloon_bot" style="margin-top: 13px; display: none;"></div>
+</div>
+
+
+</div> <!-- /chatarea_container. -->
+
+<div style="position: absolute; float: right; right: 1px; display: none;" id="div_chat_admin_info_icon">
+<span style="color: #333" onclick="
+  jQuery('#chat_admin_info').toggle('fast');
+  return false;
+ ">+</span>
+</div>
+
+
+<!-- TODO: Permitir customizar menu persistente pelo admin config -->
+<!-- TODO: acho que isso nao eh usado e sim "var persistent_menu_template" no js -->
+<div id="bot_persistent_menu_html" style="display: none" aria-expanded="false">
+<button data-payload="Início" class="fb_button_link" onclick="inbot.user_to_bot({ 'user_phrase': this.innerHTML, payload: this.dataset.payload}); hide_persistent_menu();">Início</button>
+<button data-payload="Falar com atendente" class="fb_button_link" onclick="inbot.user_to_bot({ 'user_phrase': this.innerHTML, payload: this.dataset.payload}); hide_persistent_menu();">Falar com atendente</button>
+</div>
+
+<script>
+// TODO: hardcoded.
+if (bot_id==150 || bot_id==303) {
+  let str = '<span data-payload="Início" class="fb_button_link" onclick="inbot.user_to_bot({ \'user_phrase\': this.innerHTML, payload: this.dataset.payload}); hide_persistent_menu();">Início</span>';
+  document.getElementById('bot_persistent_menu_html').innerHTML = str;
+}
+
+</script>
+
+<div id="bot_widget_foot" class="bot_widget_foot">
+
+<div id="bot_alert_message_error_user" style="display:none;">
+<!-- espaco para mensagem de erro do inchat fora do ar -->
+</div>
+
+
+<div class="fb_div_card" style="display: none; box-shadow: 0px 0px 6px #aaa; margin-bottom: 5px; z-index: 1201" id="persistent_menu">
+<span id="persistent_menu_content"><button data-payload="FRASE DE ABERTURA" class="fb_button_link" style="padding-right: 20px;" onclick="inbot.user_to_bot({ 'user_phrase': this.innerHTML, payload: this.dataset.payload}); hide_persistent_menu();">Início</button>
+<button data-payload="Falar com atendente" class="fb_button_link" style="padding-right: 20px;" onclick="inbot.user_to_bot({ 'user_phrase': this.innerHTML, payload: this.dataset.payload}); hide_persistent_menu();">Falar com atendente</button>
+</span>
+</div>
+
+
+<form method="GET" onsubmit="
+  inbot.user_to_bot({'message_to':inbot.message_to, 'caller':'inbot_form_msg'});
+  return(false);
+" id="inbot_form_msg" data-hs-cf-bound="true">
+
+<input type="hidden" name="interaction_is_stt" value="0">
+<input type="hidden" name="csrf" value="dynamic_csrf_token_changed_by_javascript">
+<input type="hidden" name="payload" id="inbot_payload" value="">
+
+<table style="width: 100%;">
+<tbody><tr>
+<td id="bot_icon_persistent_menu_td">
+<i class="fa fa-bars fa-fw bot_layout_icon_persistent_menu" onclick="
+  show_or_hide_persistent_menu();
+" id="bot_icon_persistent_menu" title="Menu de opções"></i>
+<b id="you_str">Você:</b>
+</td>
+
+<td style="padding-right: 5px; padding-left: 3px;">
+<div id="input_str" style="display: inline-block; width: 100%">
+<input type="text" name="msg" id="msg" data-id="bot_input_user_phrase" class="bot_input_user_phrase" maxlength="200" placeholder="Digite uma mensagem" onfocus="hide_persistent_menu()" autocomplete="off" onkeyup="
+
+if (typeof inbot.user_is_typing == 'function') {
+  inbot.user_is_typing(this.value);
+}
+
+if (inbot.config_use_stt) {
+  if ( jQuery('#msg').val().length>0 ) {
+    if (inbot.debug=='mic') {
+      $in.warn('inbot: hide mic, msg='+jQuery('#msg').val(), 'audio');
+    }
+    jQuery('#bot_microphone').hide('fast'); // oculta mic se usuario comecou escrever texto (reativa ao fazer send)
+  } else {
+    if (inbot.debug=='mic') {
+      $in.warn('inbot: show mic (keyup)', 'audio');
+    }
+    jQuery('#bot_microphone').show('fast'); // mostra mic se nao tem texto no campo input msg
+  }
+}
+
+if (inchat.is_connected &amp;&amp; typeof bot_socket == 'object') {
+  // Typing indicator
+  bot_socket.emit('browser_to_inchat_server', {
+             'action': 'client_is_typing',
+         'session_id': inbot.session_id,
+    'user_phrase_while_typing': this.value
+  });
+}
+" onblur="
+//if (inbot.config_use_stt) {
+//  jQuery('#bot_microphone').show();
+//}
+">
+<i class="fa fa-fw fa-paperclip" id="bot_clip_file_upload" style="display: none; font-size: 1.4em; position: absolute; margin-left: -35px; margin-top: 4px; color: #909090; cursor: pointer;" title="Anexar arquivo" onclick="
+ file_upload_click_paperclip();
+// if (typeof inbot.attach_file_script == 'function') {
+//   inbot.attach_file_script();
+// }
+// jQuery('.bot_input_type_file:last').click();
+"></i>
+</div>
+</td>
+
+<style>
+.mic_pulse {
+  color: red;
+  border-radius: 50%;
+  box-shadow: 0 0 0 rgba(240,190,20, 0.4);
+  animation: mic_pulse 1.5s infinite;
+}
+
+@keyframes mic_pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(240,190,20, 0.90);
+    background: #f0cc10;
+  }
+  70% {
+    box-shadow: 0 0 0 8px rgba(240,190,20, 0.3);
+  }
+  100% {
+    box-shadow: 0 0 0 0px rgba(240,190,20, 0);
+    background: rgba(255, 255, 255, 0);
+  }
+}
+</style>
+
+<td style="width: 1%; padding-right: 20px; white-space:nowrap; height:100%; vertical-align:middle; xdisplay: flex; xalign-items: center;">
+<!-- submit oculto so pra funcionar o "submit on enter" ao digitar msg -->
+<input type="submit" value="" style="display: none;">
+<span id="bot_microphone" style="display:none; cursor: pointer;" onclick="
+
+  if (typeof inbot.mic_init_alternative == 'function') {
+    inbot.mic_init_alternative();
+  } else {
+    inbot.mic_init(); // onClick will be redefined here
+  }
+
+//  if (inbot.mic_started) {
+//    inbot.mic_stop();
+//  } else {
+//    inbot.mic_start();
+//  }
+ " onmouseover="
+  jQuery('#bot_mic_icon').css('color', 'rgb(248,0,0)');
+ " ;="" onmouseout="
+  if (inbot.mic_started==0) {
+    jQuery('#bot_mic_icon').css('color', 'rgb(0,0,0)');
+  }
+ ">
+
+&nbsp;&nbsp;<i class="fa fa-microphone" id="bot_mic_icon"></i>&nbsp;&nbsp;</span>
+
+<!-- <span class="btn btn-primary btn-small xround10 bot_layout_button_submit_message"  -->
+
+<div class="bot_layout_button_submit_message" onclick="jQuery(this).closest('form').submit()" id="button_submit_message" aria-label="Enviar mensagem">
+<i class="fa fa-send-o"></i>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+<!-- wagner e and pediu pra NAO MOSTRAR botao de "sair do chat"
+
+<div style="text-align: left;">
+<div class="btn btn-tiny button_leave_inchat" style="cursor: pointer; margin-top: 5px; xfloat: right; margin-right: 20px; display: none;"
+onClick="
+ inchat.exit_user();
+// inbot.post('user_to_bot', {'user_phrase': 'INCHAT STOP', 'display':'none'});
+// jQuery(this).hide('slow');
+"
+>sair do atendimento</div></div>
+-->
+
+<!--
+<input type="submit" value="enviar" class="btn btn-small btn-primary" style="margin-right: 5px;">
+-->
+<input type="hidden" id="msg_prefix" style="display: none;"> <!-- ex: "USER FEEDBACK:" -->
+
+<span id="you_str_after"></span> <!-- ex: <input value="Cancelar comentário"> -->
+</form>
+
+
+<div id="chat_admin_info" style="display: none;">
+
+<table style="color: #808080;" class="table table-normal table-border1">
+<tbody><tr>
+ <td bgcolor="#f0f0f0"><b>Pergunta</b></td>
+ <td bgcolor="white"><span id="msg_span"></span></td>
+</tr>
+<tr>
+ <td bgcolor="#f0f0f0"><b>best_pattern</b></td>
+ <td bgcolor="white"><span id="best_pattern"></span></td>
+</tr>
+<tr>
+ <td bgcolor="#f0f0f0"><b>best_pattern_regex</b></td>
+ <td bgcolor="white"><span id="best_pattern_regex"></span></td>
+</tr>
+<tr>
+ <td bgcolor="#f0f0f0"><b>best_pattern_id</b></td>
+ <td bgcolor="white"><span id="best_pattern_id"></span></td>
+</tr>
+<tr>
+ <td valign="top" bgcolor="#f0f0f0"><b>Estímulos possíveis</b></td>
+ <td bgcolor="white"><span id="possible_patterns"></span></td></tr>
+<tr>
+ <td valign="top" bgcolor="#f0f0f0"><b>Resposta selecionada</b></td>
+ <td bgcolor="white"><textarea id="template_found_unescaped" style="width: 100%; height: 80px;"></textarea></td>
+</tr>
+<tr>
+ <td bgcolor="#f0f0f0"><b>user_id</b></td>
+ <td bgcolor="white"><span id="debug_user_id"></span></td>
+</tr>
+</tbody></table>
+
+<div style="text-align: center;" onclick="jQuery('#chat_admin_info').toggle('fast');">
+<button class="btn btn-secondary" style="width: 100%; background-color: #e0e0e0;" onmouseover="jQuery(this).css('background-color', '#b8b8b8');" onmouseout="jQuery(this).css('background-color', '#e0e0e0');">
+<b>fechar</b>
+<i class="fa fa-fw fa-chevron-down"></i>
+</button>
+</div>
+
+</div> <!-- /chat_admin_info -->
+
+<div style="
+ text-align: center;
+ color: #707070;
+ margin-right: 32px;
+ margin-top: 4px;
+ font-size: 0.8em;
+ opacity: 0.3;
+" id="powered_by_bot">Powered by <a href="https://www.inbot.com.br/" target="_blank" rel="noopener noreferrer">InBot</a></div>
+
+</div> <!-- /bot_widget_foot -->
+
+<script>
+
+if (inbot.icon_is_left_align==1) {
+  // Swap td para seta com texto ficar à direita do avatar (que é alinhado àesquerda)
+  var $botIconPointerTd = $('#bot_icon_pointer_td');
+  var $botIconRight = $('#bot_icon_right');
+  $botIconPointerTd.before($botIconRight);
+  // remove css de icone a direita
+  $('#bot_icon_pointer').removeClass('bot_icon_pointer_right');
+  $('#bot_icon_pointer').addClass('bot_icon_pointer_left');
+}
+
+if (/supernova/.test(bot_script_base)) {
+ document.getElementById('powered_by_bot').innerHTML = 'Powered by <a href="https://www.dendron.com.br/" target="_blank" rel="noopener noreferrer">Supernova</a>';
+}
+
+// TODO: zxc9 descomentar e apagar segunda linha abaixo:
+//if (inbot.is_iframe) {
+if (typeof bot_is_iframe != 'undefined' && bot_is_iframe=='1') {
+  // Borda do widget fica com sombra mais fina quando for iframe, pra nao sobrepor muito elementos da pagina a esquerda do widget
+  jQuery('.bot_box_chat').addClass('bot_box_chat_iframe');
+}
+
+// cliente precisa criar o tag "inbot_start"
+// Se existir GTM (variavel dataLayer), registra evento "inbot_start" qdo user digitar o primeiro caractere no campo <input msg>
+jQuery('.bot_input_user_phrase').on('input.gtmEvent_inbot_start', function() {
+  if (window.dataLayer && Array.isArray(window.dataLayer)) {
+    if ($(this).val().length > 0) {
+      // Dispara o evento para o Google Tag Manager
+      window.dataLayer.push({
+        'event': 'inbot_start'
+      });
+      // Remove o evento 'input' com o namespace 'gtmEvent' pois já fez o registro
+      $(this).off('input.gtmEvent_inbot_start');
+    }
+  } else { // nao tem GTM
+    $(this).off('input.gtmEvent_inbot_start');
+  }
+});
+
+
+
+</script>
+
+<div id="bot_widget_after_foot"></div> <!-- Ex: usado para inserir icone de "close chat" -->
+
+</div> <!-- /box_chat -->
+
+<!-- /inbot.html -->
+</span> <!-- /bot_layout_type --></div><p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" hidden="hidden">Notificações</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><object id="__symantecPKIClientMessenger" data-supports-flavor-configuration="true" data-extension-version="0.5.0.109" style="display: none;"></object><span id="__symantecPKIClientDetector" style="display: none;">__PRESENT</span><iframe owner="archetype" title="archetype" style="display: none; visibility: hidden;" data-gtm-yt-inspected-10="true"></iframe></body></html>
